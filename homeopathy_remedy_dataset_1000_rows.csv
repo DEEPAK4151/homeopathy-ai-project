@@ -1,0 +1,1001 @@
+remedy,symptoms,disease,potency,source
+Pulsatilla,chronic eruptions; swelling; acne; itching; vesicular eruptions; eczema,hormonal,6X,synthetic materia medica
+Mercurius Solubilis,dull skin; acne; vesicular eruptions; swelling; hormonal acne; burning,allergy,30C,synthetic materia medica
+Sulphur,acne; cracked skin; vesicular eruptions; redness,chronic,Q,synthetic materia medica
+Hepar Sulph,pimples; cracked skin; eczema; chronic eruptions; pigmentation; dull skin,hormonal,6X,synthetic materia medica
+Kali Bromatum,allergic rash; redness; sensitive skin; facial eruptions; acne,chronic,6X,synthetic materia medica
+Hepar Sulph,vesicular eruptions; chronic eruptions; pus formation,allergy,30C,synthetic materia medica
+Sulphur,cracked skin; acne; sensitive skin,hormonal,200C,synthetic materia medica
+Hepar Sulph,chronic eruptions; vesicular eruptions; rash,acute inflammation,6X,synthetic materia medica
+Arsenicum Album,dull skin; acne; rash; allergic rash,general,6X,synthetic materia medica
+Berberis Aquifolium,dull skin; burning; facial eruptions,allergy,Q,synthetic materia medica
+Sulphur,sensitive skin; burning; swelling; facial eruptions; itching,general,30C,synthetic materia medica
+Pulsatilla,redness; chronic eruptions; hormonal acne; rash,allergy,200C,synthetic materia medica
+Mercurius Solubilis,hormonal acne; eczema; facial eruptions; swelling; sensitive skin,general,6X,synthetic materia medica
+Hepar Sulph,pigmentation; hormonal acne; rash; chronic eruptions; pus formation; acne,hormonal,30C,synthetic materia medica
+Sepia,facial eruptions; allergic rash; rash; swelling; cracked skin; sensitive skin,general,30C,synthetic materia medica
+Nux Vomica,allergic rash; chronic eruptions; oily skin; facial eruptions; dull skin,acute inflammation,6X,synthetic materia medica
+Hepar Sulph,swelling; acne; allergic rash; pimples; sensitive skin; redness,hormonal,6X,synthetic materia medica
+Lycopodium,itching; hormonal acne; rash; chronic eruptions; dull skin; pimples,skin,Q,synthetic materia medica
+Arsenicum Album,hormonal acne; facial eruptions; rash,chronic,Q,synthetic materia medica
+Bryonia,redness; itching; pimples; hormonal acne; acne,allergy,6X,synthetic materia medica
+Sulphur,pimples; facial eruptions; pigmentation,acute inflammation,30C,synthetic materia medica
+Sulphur,vesicular eruptions; itching; rash; redness; allergic rash,chronic,30C,synthetic materia medica
+Kali Bromatum,pus formation; allergic rash; pimples; oily skin; facial eruptions,allergy,Q,synthetic materia medica
+Calcarea Sulph,pigmentation; itching; rash; redness,chronic,6X,synthetic materia medica
+Silicea,chronic eruptions; facial eruptions; itching; swelling; allergic rash; pimples,hormonal,200C,synthetic materia medica
+Arsenicum Album,dry skin; burning; chronic eruptions; oily skin; pus formation; hormonal acne,hormonal,6X,synthetic materia medica
+Silicea,redness; pigmentation; sensitive skin; pus formation; facial eruptions,allergy,200C,synthetic materia medica
+Natrum Muriaticum,pus formation; cracked skin; oily skin; rash,acute inflammation,Q,synthetic materia medica
+Nux Vomica,burning; swelling; oily skin; eczema; cracked skin; chronic eruptions,chronic,200C,synthetic materia medica
+Calcarea Sulph,oily skin; pigmentation; itching; burning; swelling,skin,6X,synthetic materia medica
+Mercurius Solubilis,pimples; hormonal acne; acne; dry skin; redness; oily skin,hormonal,6X,synthetic materia medica
+Sulphur,burning; redness; hormonal acne; acne; cracked skin,allergy,200C,synthetic materia medica
+Mercurius Solubilis,oily skin; rash; swelling; dry skin,chronic,30C,synthetic materia medica
+Thuja Occidentalis,eczema; cracked skin; hormonal acne,general,200C,synthetic materia medica
+Mercurius Solubilis,pus formation; allergic rash; dry skin,allergy,6X,synthetic materia medica
+Silicea,acne; cracked skin; oily skin; itching; rash,skin,6X,synthetic materia medica
+Berberis Aquifolium,allergic rash; chronic eruptions; redness; pigmentation,chronic,Q,synthetic materia medica
+Silicea,dry skin; chronic eruptions; swelling,allergy,6X,synthetic materia medica
+Sepia,burning; oily skin; rash; acne; eczema; pigmentation,general,200C,synthetic materia medica
+Hepar Sulph,acne; cracked skin; pimples; pus formation; swelling; chronic eruptions,chronic,200C,synthetic materia medica
+Calcarea Sulph,itching; pimples; sensitive skin; acne; swelling,hormonal,30C,synthetic materia medica
+Sulphur,chronic eruptions; pigmentation; hormonal acne; dull skin; rash,skin,Q,synthetic materia medica
+Apis Mellifica,chronic eruptions; itching; vesicular eruptions; swelling,general,200C,synthetic materia medica
+Calcarea Sulph,facial eruptions; pigmentation; redness; pus formation; acne; cracked skin,hormonal,200C,synthetic materia medica
+Mercurius Solubilis,pimples; sensitive skin; chronic eruptions; dry skin; vesicular eruptions,skin,6X,synthetic materia medica
+Apis Mellifica,pigmentation; redness; cracked skin; hormonal acne; chronic eruptions,acute inflammation,6X,synthetic materia medica
+Natrum Muriaticum,burning; pigmentation; swelling; vesicular eruptions; chronic eruptions,general,6X,synthetic materia medica
+Rhus Toxicodendron,cracked skin; swelling; chronic eruptions; pimples,general,30C,synthetic materia medica
+Silicea,oily skin; chronic eruptions; burning; hormonal acne,hormonal,6X,synthetic materia medica
+Rhus Toxicodendron,itching; pigmentation; chronic eruptions,hormonal,6X,synthetic materia medica
+Antimonium Crudum,acne; dull skin; vesicular eruptions; redness; hormonal acne; pimples,acute inflammation,200C,synthetic materia medica
+Calcarea Sulph,hormonal acne; dry skin; chronic eruptions; redness; eczema,allergy,Q,synthetic materia medica
+Graphites,redness; rash; acne; pimples; chronic eruptions; itching,allergy,6X,synthetic materia medica
+Mercurius Solubilis,oily skin; cracked skin; pus formation; pigmentation,skin,Q,synthetic materia medica
+Arsenicum Album,eczema; allergic rash; sensitive skin; swelling,skin,30C,synthetic materia medica
+Arsenicum Album,eczema; facial eruptions; dry skin; dull skin,chronic,30C,synthetic materia medica
+Rhus Toxicodendron,redness; acne; rash; burning; pigmentation; swelling,hormonal,6X,synthetic materia medica
+Nux Vomica,oily skin; dull skin; cracked skin; acne; burning,allergy,30C,synthetic materia medica
+Pulsatilla,pigmentation; dull skin; oily skin; vesicular eruptions,skin,6X,synthetic materia medica
+Graphites,allergic rash; acne; oily skin,skin,30C,synthetic materia medica
+Sepia,swelling; allergic rash; pigmentation,skin,30C,synthetic materia medica
+Lycopodium,eczema; sensitive skin; dry skin; vesicular eruptions; chronic eruptions,allergy,6X,synthetic materia medica
+Calcarea Sulph,sensitive skin; rash; chronic eruptions,acute inflammation,30C,synthetic materia medica
+Sulphur,itching; hormonal acne; cracked skin; rash; redness,allergy,Q,synthetic materia medica
+Apis Mellifica,cracked skin; chronic eruptions; pimples; swelling,allergy,30C,synthetic materia medica
+Natrum Muriaticum,acne; pus formation; sensitive skin,chronic,200C,synthetic materia medica
+Hepar Sulph,sensitive skin; rash; redness; chronic eruptions; vesicular eruptions; pigmentation,acute inflammation,Q,synthetic materia medica
+Apis Mellifica,rash; cracked skin; pigmentation; oily skin; eczema; facial eruptions,acute inflammation,30C,synthetic materia medica
+Sepia,pus formation; facial eruptions; pigmentation; hormonal acne; redness,skin,30C,synthetic materia medica
+Belladonna,acne; allergic rash; pigmentation,chronic,30C,synthetic materia medica
+Sulphur,oily skin; dry skin; burning; vesicular eruptions; pus formation; itching,chronic,30C,synthetic materia medica
+Thuja Occidentalis,dull skin; rash; cracked skin; itching,general,30C,synthetic materia medica
+Graphites,chronic eruptions; eczema; vesicular eruptions,acute inflammation,30C,synthetic materia medica
+Belladonna,dull skin; rash; itching; facial eruptions,acute inflammation,6X,synthetic materia medica
+Kali Bromatum,dry skin; rash; itching; cracked skin; swelling,general,30C,synthetic materia medica
+Lycopodium,dry skin; pigmentation; facial eruptions,acute inflammation,200C,synthetic materia medica
+Nux Vomica,vesicular eruptions; chronic eruptions; pigmentation; burning,general,Q,synthetic materia medica
+Silicea,chronic eruptions; swelling; acne; burning; pus formation; facial eruptions,skin,200C,synthetic materia medica
+Hepar Sulph,chronic eruptions; sensitive skin; dry skin; eczema; pus formation,general,30C,synthetic materia medica
+Calcarea Sulph,swelling; itching; rash; redness,allergy,Q,synthetic materia medica
+Belladonna,rash; cracked skin; allergic rash; eczema; pimples; hormonal acne,hormonal,Q,synthetic materia medica
+Apis Mellifica,eczema; pimples; sensitive skin,skin,200C,synthetic materia medica
+Mercurius Solubilis,dry skin; burning; itching; pus formation; eczema; pigmentation,acute inflammation,200C,synthetic materia medica
+Antimonium Crudum,burning; facial eruptions; dull skin; pus formation; pigmentation; chronic eruptions,general,6X,synthetic materia medica
+Sulphur,acne; vesicular eruptions; pimples; hormonal acne,general,200C,synthetic materia medica
+Apis Mellifica,allergic rash; vesicular eruptions; acne; cracked skin; pus formation,general,6X,synthetic materia medica
+Thuja Occidentalis,acne; cracked skin; eczema; pigmentation; pus formation; hormonal acne,skin,Q,synthetic materia medica
+Sulphur,pus formation; pimples; facial eruptions; chronic eruptions,hormonal,Q,synthetic materia medica
+Pulsatilla,burning; hormonal acne; oily skin,general,Q,synthetic materia medica
+Arsenicum Album,eczema; cracked skin; acne,general,6X,synthetic materia medica
+Apis Mellifica,hormonal acne; eczema; burning,chronic,30C,synthetic materia medica
+Hepar Sulph,swelling; pimples; pigmentation; hormonal acne,allergy,6X,synthetic materia medica
+Arsenicum Album,allergic rash; redness; acne; swelling,allergy,200C,synthetic materia medica
+Thuja Occidentalis,burning; redness; dull skin; cracked skin; vesicular eruptions,skin,30C,synthetic materia medica
+Nux Vomica,itching; allergic rash; dull skin; pigmentation; pimples,acute inflammation,6X,synthetic materia medica
+Kali Bromatum,hormonal acne; pigmentation; sensitive skin,acute inflammation,6X,synthetic materia medica
+Pulsatilla,rash; oily skin; allergic rash,hormonal,Q,synthetic materia medica
+Pulsatilla,cracked skin; redness; dry skin; pus formation,general,6X,synthetic materia medica
+Arsenicum Album,hormonal acne; rash; oily skin; dull skin; swelling; redness,skin,6X,synthetic materia medica
+Antimonium Crudum,chronic eruptions; redness; swelling; sensitive skin; rash,acute inflammation,6X,synthetic materia medica
+Pulsatilla,pimples; rash; acne,hormonal,30C,synthetic materia medica
+Berberis Aquifolium,dry skin; dull skin; pigmentation; redness; cracked skin; pimples,general,Q,synthetic materia medica
+Calcarea Sulph,dry skin; facial eruptions; rash; acne; swelling; cracked skin,acute inflammation,30C,synthetic materia medica
+Hepar Sulph,oily skin; rash; dull skin; dry skin; pigmentation; pus formation,allergy,30C,synthetic materia medica
+Natrum Muriaticum,pimples; swelling; hormonal acne,hormonal,30C,synthetic materia medica
+Arsenicum Album,sensitive skin; swelling; rash; cracked skin; pimples,hormonal,30C,synthetic materia medica
+Calcarea Sulph,itching; chronic eruptions; hormonal acne; acne; facial eruptions,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,acne; allergic rash; rash; itching,allergy,6X,synthetic materia medica
+Sepia,eczema; redness; dull skin; itching; acne; pus formation,acute inflammation,6X,synthetic materia medica
+Silicea,allergic rash; pus formation; cracked skin; burning; redness,chronic,200C,synthetic materia medica
+Natrum Muriaticum,acne; redness; cracked skin,hormonal,200C,synthetic materia medica
+Pulsatilla,hormonal acne; redness; pigmentation; acne,allergy,200C,synthetic materia medica
+Belladonna,swelling; redness; facial eruptions; burning,general,200C,synthetic materia medica
+Arsenicum Album,rash; oily skin; facial eruptions; dry skin,hormonal,Q,synthetic materia medica
+Natrum Muriaticum,vesicular eruptions; sensitive skin; hormonal acne,skin,30C,synthetic materia medica
+Arsenicum Album,hormonal acne; burning; facial eruptions; cracked skin; allergic rash,general,30C,synthetic materia medica
+Sepia,swelling; cracked skin; hormonal acne; burning,acute inflammation,30C,synthetic materia medica
+Berberis Aquifolium,chronic eruptions; vesicular eruptions; dry skin; eczema,hormonal,200C,synthetic materia medica
+Antimonium Crudum,swelling; dull skin; oily skin,general,Q,synthetic materia medica
+Calcarea Sulph,oily skin; pigmentation; hormonal acne,hormonal,Q,synthetic materia medica
+Bryonia,rash; redness; vesicular eruptions; pus formation,allergy,Q,synthetic materia medica
+Mercurius Solubilis,chronic eruptions; hormonal acne; oily skin,acute inflammation,30C,synthetic materia medica
+Bryonia,eczema; sensitive skin; allergic rash; oily skin; itching,chronic,30C,synthetic materia medica
+Hepar Sulph,pigmentation; vesicular eruptions; oily skin; burning,acute inflammation,200C,synthetic materia medica
+Calcarea Sulph,acne; burning; redness; eczema; rash; vesicular eruptions,general,200C,synthetic materia medica
+Mercurius Solubilis,swelling; rash; itching,acute inflammation,6X,synthetic materia medica
+Thuja Occidentalis,burning; redness; pigmentation; cracked skin,chronic,30C,synthetic materia medica
+Pulsatilla,oily skin; eczema; acne; cracked skin,general,Q,synthetic materia medica
+Bryonia,facial eruptions; itching; swelling; sensitive skin,hormonal,Q,synthetic materia medica
+Berberis Aquifolium,rash; facial eruptions; sensitive skin; swelling; burning,skin,200C,synthetic materia medica
+Sulphur,swelling; dry skin; cracked skin; dull skin; allergic rash; vesicular eruptions,hormonal,Q,synthetic materia medica
+Bryonia,oily skin; itching; cracked skin,skin,200C,synthetic materia medica
+Graphites,pimples; dull skin; eczema; cracked skin; chronic eruptions; facial eruptions,skin,6X,synthetic materia medica
+Nux Vomica,hormonal acne; eczema; itching; vesicular eruptions,hormonal,200C,synthetic materia medica
+Berberis Aquifolium,swelling; eczema; rash,general,30C,synthetic materia medica
+Pulsatilla,vesicular eruptions; dry skin; eczema; allergic rash; hormonal acne,skin,200C,synthetic materia medica
+Berberis Aquifolium,sensitive skin; itching; burning; acne; swelling,skin,200C,synthetic materia medica
+Lycopodium,chronic eruptions; pus formation; dull skin,skin,200C,synthetic materia medica
+Belladonna,cracked skin; pimples; oily skin,general,30C,synthetic materia medica
+Natrum Muriaticum,burning; dry skin; swelling,allergy,200C,synthetic materia medica
+Bryonia,hormonal acne; oily skin; pimples; pigmentation; sensitive skin,skin,200C,synthetic materia medica
+Apis Mellifica,burning; hormonal acne; acne; facial eruptions; rash,general,30C,synthetic materia medica
+Bryonia,rash; facial eruptions; eczema,general,Q,synthetic materia medica
+Natrum Muriaticum,dull skin; vesicular eruptions; cracked skin; redness; swelling,allergy,6X,synthetic materia medica
+Sepia,pus formation; itching; chronic eruptions; eczema,allergy,Q,synthetic materia medica
+Thuja Occidentalis,pimples; sensitive skin; pus formation; acne,chronic,Q,synthetic materia medica
+Lycopodium,dull skin; hormonal acne; pimples; acne; facial eruptions,chronic,200C,synthetic materia medica
+Natrum Muriaticum,burning; pigmentation; dry skin; hormonal acne; redness; swelling,acute inflammation,6X,synthetic materia medica
+Nux Vomica,eczema; redness; dull skin; pigmentation,hormonal,200C,synthetic materia medica
+Belladonna,itching; rash; burning; cracked skin; dry skin; pigmentation,hormonal,Q,synthetic materia medica
+Thuja Occidentalis,acne; dull skin; facial eruptions; cracked skin; rash,acute inflammation,200C,synthetic materia medica
+Apis Mellifica,cracked skin; oily skin; pigmentation; sensitive skin; rash,general,6X,synthetic materia medica
+Apis Mellifica,cracked skin; eczema; swelling; itching; acne; chronic eruptions,acute inflammation,Q,synthetic materia medica
+Bryonia,oily skin; burning; pigmentation; dull skin; redness,chronic,200C,synthetic materia medica
+Antimonium Crudum,dull skin; sensitive skin; acne; cracked skin,chronic,200C,synthetic materia medica
+Calcarea Sulph,swelling; acne; vesicular eruptions; pigmentation; chronic eruptions; redness,acute inflammation,Q,synthetic materia medica
+Graphites,vesicular eruptions; acne; dry skin; eczema,hormonal,6X,synthetic materia medica
+Silicea,chronic eruptions; cracked skin; redness; itching,general,Q,synthetic materia medica
+Berberis Aquifolium,oily skin; sensitive skin; facial eruptions; allergic rash,acute inflammation,6X,synthetic materia medica
+Nux Vomica,acne; swelling; itching; cracked skin,general,30C,synthetic materia medica
+Pulsatilla,burning; pigmentation; redness; dry skin; eczema,chronic,Q,synthetic materia medica
+Graphites,hormonal acne; facial eruptions; pigmentation; rash; swelling,general,30C,synthetic materia medica
+Natrum Muriaticum,dull skin; swelling; hormonal acne,skin,6X,synthetic materia medica
+Thuja Occidentalis,vesicular eruptions; pus formation; dry skin,allergy,200C,synthetic materia medica
+Natrum Muriaticum,sensitive skin; facial eruptions; dull skin; chronic eruptions; oily skin; pus formation,chronic,30C,synthetic materia medica
+Mercurius Solubilis,swelling; chronic eruptions; acne; vesicular eruptions; burning; redness,skin,30C,synthetic materia medica
+Silicea,pimples; itching; oily skin,allergy,Q,synthetic materia medica
+Silicea,pus formation; swelling; hormonal acne; pigmentation,skin,200C,synthetic materia medica
+Silicea,oily skin; facial eruptions; pus formation; dull skin,hormonal,6X,synthetic materia medica
+Sepia,eczema; pigmentation; pimples; allergic rash; rash; facial eruptions,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,pus formation; oily skin; hormonal acne; swelling; sensitive skin,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,pimples; sensitive skin; rash; eczema,general,Q,synthetic materia medica
+Mercurius Solubilis,sensitive skin; eczema; hormonal acne; oily skin,hormonal,Q,synthetic materia medica
+Silicea,swelling; burning; dry skin,hormonal,200C,synthetic materia medica
+Mercurius Solubilis,pus formation; chronic eruptions; itching; cracked skin; swelling,hormonal,30C,synthetic materia medica
+Sepia,dull skin; dry skin; cracked skin; burning,general,30C,synthetic materia medica
+Rhus Toxicodendron,redness; hormonal acne; facial eruptions; dry skin; rash; eczema,acute inflammation,30C,synthetic materia medica
+Hepar Sulph,sensitive skin; facial eruptions; pimples,general,6X,synthetic materia medica
+Lycopodium,pus formation; chronic eruptions; burning; pigmentation,hormonal,30C,synthetic materia medica
+Apis Mellifica,pimples; rash; facial eruptions; oily skin; pus formation,hormonal,200C,synthetic materia medica
+Graphites,oily skin; acne; dry skin; chronic eruptions; sensitive skin,skin,30C,synthetic materia medica
+Bryonia,sensitive skin; itching; dull skin; swelling; pigmentation; chronic eruptions,hormonal,6X,synthetic materia medica
+Lycopodium,facial eruptions; sensitive skin; pigmentation; itching; pimples; allergic rash,hormonal,Q,synthetic materia medica
+Mercurius Solubilis,sensitive skin; oily skin; facial eruptions,hormonal,6X,synthetic materia medica
+Hepar Sulph,cracked skin; sensitive skin; oily skin,hormonal,30C,synthetic materia medica
+Bryonia,chronic eruptions; oily skin; redness; allergic rash,skin,200C,synthetic materia medica
+Mercurius Solubilis,cracked skin; facial eruptions; eczema; dry skin; swelling,skin,Q,synthetic materia medica
+Graphites,sensitive skin; facial eruptions; pigmentation; cracked skin; hormonal acne,allergy,200C,synthetic materia medica
+Bryonia,swelling; pigmentation; oily skin,allergy,6X,synthetic materia medica
+Antimonium Crudum,burning; facial eruptions; oily skin; chronic eruptions; pigmentation; dry skin,skin,Q,synthetic materia medica
+Calcarea Sulph,pus formation; hormonal acne; oily skin; redness,hormonal,30C,synthetic materia medica
+Bryonia,sensitive skin; allergic rash; pimples,general,Q,synthetic materia medica
+Berberis Aquifolium,itching; swelling; allergic rash,general,30C,synthetic materia medica
+Arsenicum Album,rash; cracked skin; hormonal acne; pus formation,chronic,Q,synthetic materia medica
+Mercurius Solubilis,pigmentation; hormonal acne; vesicular eruptions,general,Q,synthetic materia medica
+Calcarea Sulph,pigmentation; pimples; swelling,hormonal,Q,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; cracked skin; burning; itching; facial eruptions; pigmentation,hormonal,Q,synthetic materia medica
+Silicea,dry skin; burning; allergic rash; itching,chronic,30C,synthetic materia medica
+Pulsatilla,rash; eczema; pigmentation; pus formation; redness; cracked skin,skin,30C,synthetic materia medica
+Lycopodium,pus formation; hormonal acne; dry skin; eczema; rash,general,30C,synthetic materia medica
+Belladonna,allergic rash; sensitive skin; pus formation; facial eruptions; eczema,skin,Q,synthetic materia medica
+Arsenicum Album,pus formation; chronic eruptions; eczema; hormonal acne,chronic,200C,synthetic materia medica
+Thuja Occidentalis,oily skin; vesicular eruptions; itching; rash; pigmentation,chronic,200C,synthetic materia medica
+Pulsatilla,cracked skin; redness; vesicular eruptions; pimples; allergic rash; rash,chronic,200C,synthetic materia medica
+Thuja Occidentalis,vesicular eruptions; pimples; facial eruptions; pigmentation; itching,general,6X,synthetic materia medica
+Pulsatilla,burning; pus formation; oily skin; vesicular eruptions; swelling; redness,acute inflammation,200C,synthetic materia medica
+Arsenicum Album,hormonal acne; redness; allergic rash; rash; chronic eruptions,acute inflammation,Q,synthetic materia medica
+Apis Mellifica,rash; hormonal acne; facial eruptions; pimples,allergy,6X,synthetic materia medica
+Kali Bromatum,cracked skin; allergic rash; vesicular eruptions,chronic,6X,synthetic materia medica
+Pulsatilla,pus formation; hormonal acne; burning; dry skin,skin,6X,synthetic materia medica
+Pulsatilla,dull skin; swelling; oily skin; rash,chronic,6X,synthetic materia medica
+Sulphur,rash; dull skin; redness; swelling,acute inflammation,Q,synthetic materia medica
+Pulsatilla,rash; dull skin; allergic rash; swelling; burning,acute inflammation,Q,synthetic materia medica
+Hepar Sulph,pimples; burning; hormonal acne; acne; oily skin; allergic rash,skin,Q,synthetic materia medica
+Apis Mellifica,acne; hormonal acne; allergic rash; vesicular eruptions; facial eruptions,chronic,30C,synthetic materia medica
+Antimonium Crudum,pus formation; cracked skin; pigmentation; burning; sensitive skin,general,Q,synthetic materia medica
+Kali Bromatum,dry skin; redness; swelling; pimples; facial eruptions,hormonal,30C,synthetic materia medica
+Lycopodium,cracked skin; pus formation; dull skin,hormonal,6X,synthetic materia medica
+Sulphur,allergic rash; pimples; pus formation; oily skin; dry skin,allergy,200C,synthetic materia medica
+Pulsatilla,facial eruptions; chronic eruptions; rash; swelling; pimples,chronic,200C,synthetic materia medica
+Sulphur,swelling; vesicular eruptions; burning; acne; facial eruptions,chronic,30C,synthetic materia medica
+Graphites,vesicular eruptions; swelling; acne,chronic,200C,synthetic materia medica
+Graphites,dry skin; rash; pimples; facial eruptions,acute inflammation,6X,synthetic materia medica
+Lycopodium,oily skin; eczema; swelling; pimples; allergic rash,chronic,30C,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; allergic rash; dull skin,allergy,30C,synthetic materia medica
+Nux Vomica,facial eruptions; rash; chronic eruptions; redness; acne,skin,200C,synthetic materia medica
+Mercurius Solubilis,facial eruptions; pus formation; eczema; hormonal acne; dull skin; itching,acute inflammation,Q,synthetic materia medica
+Sepia,hormonal acne; redness; vesicular eruptions,general,6X,synthetic materia medica
+Natrum Muriaticum,redness; pus formation; eczema; allergic rash; facial eruptions; sensitive skin,skin,30C,synthetic materia medica
+Silicea,swelling; acne; burning; facial eruptions; hormonal acne,allergy,Q,synthetic materia medica
+Natrum Muriaticum,dry skin; burning; rash; pimples; pigmentation,skin,30C,synthetic materia medica
+Sepia,dull skin; burning; swelling,skin,30C,synthetic materia medica
+Hepar Sulph,rash; sensitive skin; itching; eczema; pigmentation; pimples,acute inflammation,200C,synthetic materia medica
+Berberis Aquifolium,allergic rash; redness; dry skin; facial eruptions; pimples; eczema,hormonal,200C,synthetic materia medica
+Arsenicum Album,acne; itching; dull skin; pimples,allergy,6X,synthetic materia medica
+Natrum Muriaticum,sensitive skin; rash; cracked skin; pus formation,acute inflammation,6X,synthetic materia medica
+Natrum Muriaticum,dull skin; rash; burning; allergic rash; oily skin; acne,skin,200C,synthetic materia medica
+Graphites,pimples; pus formation; oily skin,skin,200C,synthetic materia medica
+Sepia,cracked skin; facial eruptions; pigmentation,skin,200C,synthetic materia medica
+Lycopodium,chronic eruptions; pimples; rash; itching; allergic rash,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,facial eruptions; redness; itching; chronic eruptions,chronic,6X,synthetic materia medica
+Lycopodium,dry skin; pus formation; burning; allergic rash,allergy,200C,synthetic materia medica
+Antimonium Crudum,swelling; pimples; hormonal acne,acute inflammation,6X,synthetic materia medica
+Rhus Toxicodendron,pus formation; facial eruptions; pigmentation,chronic,6X,synthetic materia medica
+Lycopodium,itching; allergic rash; sensitive skin,chronic,6X,synthetic materia medica
+Pulsatilla,redness; cracked skin; facial eruptions,hormonal,6X,synthetic materia medica
+Apis Mellifica,dry skin; rash; acne; cracked skin; pigmentation; eczema,acute inflammation,200C,synthetic materia medica
+Natrum Muriaticum,pus formation; dry skin; oily skin; sensitive skin; burning,general,6X,synthetic materia medica
+Belladonna,pimples; cracked skin; swelling; chronic eruptions,allergy,200C,synthetic materia medica
+Hepar Sulph,acne; dull skin; itching; vesicular eruptions,chronic,30C,synthetic materia medica
+Kali Bromatum,oily skin; vesicular eruptions; pus formation; itching; eczema; facial eruptions,chronic,Q,synthetic materia medica
+Kali Bromatum,acne; pimples; facial eruptions; dull skin,allergy,200C,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; pus formation; pigmentation; swelling; chronic eruptions; acne,general,30C,synthetic materia medica
+Rhus Toxicodendron,allergic rash; chronic eruptions; itching; facial eruptions; pimples; eczema,skin,200C,synthetic materia medica
+Kali Bromatum,sensitive skin; rash; acne,general,200C,synthetic materia medica
+Apis Mellifica,dry skin; swelling; itching,hormonal,Q,synthetic materia medica
+Mercurius Solubilis,facial eruptions; burning; chronic eruptions; eczema; hormonal acne; oily skin,chronic,Q,synthetic materia medica
+Lycopodium,cracked skin; oily skin; sensitive skin; vesicular eruptions; allergic rash,allergy,30C,synthetic materia medica
+Berberis Aquifolium,chronic eruptions; eczema; itching; acne,skin,30C,synthetic materia medica
+Arsenicum Album,redness; chronic eruptions; itching; allergic rash; swelling; facial eruptions,general,6X,synthetic materia medica
+Mercurius Solubilis,redness; oily skin; pigmentation; hormonal acne,acute inflammation,6X,synthetic materia medica
+Sulphur,rash; swelling; sensitive skin,general,6X,synthetic materia medica
+Silicea,acne; chronic eruptions; dull skin; burning; pus formation; pigmentation,general,6X,synthetic materia medica
+Rhus Toxicodendron,swelling; dull skin; eczema; sensitive skin; burning,chronic,6X,synthetic materia medica
+Sepia,cracked skin; pigmentation; vesicular eruptions; facial eruptions; redness,acute inflammation,200C,synthetic materia medica
+Nux Vomica,chronic eruptions; dry skin; swelling,acute inflammation,30C,synthetic materia medica
+Antimonium Crudum,hormonal acne; sensitive skin; pimples,skin,6X,synthetic materia medica
+Pulsatilla,chronic eruptions; pimples; allergic rash; swelling,hormonal,30C,synthetic materia medica
+Kali Bromatum,itching; hormonal acne; pus formation; acne; vesicular eruptions; facial eruptions,skin,Q,synthetic materia medica
+Thuja Occidentalis,pimples; swelling; allergic rash; itching; cracked skin; sensitive skin,allergy,30C,synthetic materia medica
+Berberis Aquifolium,redness; burning; swelling; pimples,chronic,30C,synthetic materia medica
+Apis Mellifica,allergic rash; pus formation; cracked skin; dry skin,acute inflammation,200C,synthetic materia medica
+Calcarea Sulph,allergic rash; eczema; rash; burning,skin,6X,synthetic materia medica
+Apis Mellifica,pimples; burning; chronic eruptions; oily skin; rash,allergy,30C,synthetic materia medica
+Kali Bromatum,vesicular eruptions; dull skin; eczema; chronic eruptions,skin,30C,synthetic materia medica
+Apis Mellifica,sensitive skin; hormonal acne; itching; dull skin; vesicular eruptions; allergic rash,skin,6X,synthetic materia medica
+Berberis Aquifolium,vesicular eruptions; allergic rash; redness; rash; itching; burning,hormonal,6X,synthetic materia medica
+Thuja Occidentalis,dry skin; pimples; facial eruptions,allergy,200C,synthetic materia medica
+Sepia,sensitive skin; cracked skin; vesicular eruptions,general,30C,synthetic materia medica
+Calcarea Sulph,allergic rash; burning; itching; dry skin,hormonal,6X,synthetic materia medica
+Kali Bromatum,redness; pimples; cracked skin; swelling,chronic,Q,synthetic materia medica
+Berberis Aquifolium,itching; facial eruptions; chronic eruptions; eczema,hormonal,6X,synthetic materia medica
+Graphites,allergic rash; eczema; vesicular eruptions; swelling,allergy,Q,synthetic materia medica
+Nux Vomica,cracked skin; pus formation; acne,allergy,200C,synthetic materia medica
+Thuja Occidentalis,burning; sensitive skin; pus formation,skin,6X,synthetic materia medica
+Sulphur,hormonal acne; redness; itching; chronic eruptions,hormonal,6X,synthetic materia medica
+Pulsatilla,dull skin; pus formation; dry skin; swelling; hormonal acne,hormonal,6X,synthetic materia medica
+Thuja Occidentalis,eczema; itching; swelling; cracked skin; pigmentation; chronic eruptions,chronic,200C,synthetic materia medica
+Sepia,eczema; pigmentation; dull skin,skin,6X,synthetic materia medica
+Thuja Occidentalis,cracked skin; chronic eruptions; redness; vesicular eruptions,general,200C,synthetic materia medica
+Lycopodium,swelling; vesicular eruptions; eczema; dry skin; burning; pimples,acute inflammation,30C,synthetic materia medica
+Antimonium Crudum,allergic rash; oily skin; facial eruptions,acute inflammation,6X,synthetic materia medica
+Sepia,dull skin; chronic eruptions; oily skin; allergic rash,general,30C,synthetic materia medica
+Apis Mellifica,itching; chronic eruptions; vesicular eruptions; dull skin; pigmentation,allergy,30C,synthetic materia medica
+Calcarea Sulph,dry skin; pigmentation; facial eruptions; pimples; swelling; eczema,general,6X,synthetic materia medica
+Lycopodium,hormonal acne; swelling; vesicular eruptions; pimples; facial eruptions; cracked skin,hormonal,200C,synthetic materia medica
+Bryonia,facial eruptions; acne; dull skin; eczema; oily skin; sensitive skin,general,30C,synthetic materia medica
+Kali Bromatum,allergic rash; sensitive skin; burning; cracked skin; vesicular eruptions,skin,Q,synthetic materia medica
+Calcarea Sulph,rash; hormonal acne; chronic eruptions; pimples; vesicular eruptions; itching,skin,30C,synthetic materia medica
+Calcarea Sulph,sensitive skin; rash; allergic rash; eczema; oily skin,chronic,6X,synthetic materia medica
+Mercurius Solubilis,dry skin; rash; cracked skin; burning; oily skin,general,200C,synthetic materia medica
+Pulsatilla,dull skin; pus formation; eczema; itching; chronic eruptions; burning,skin,6X,synthetic materia medica
+Thuja Occidentalis,dull skin; pus formation; dry skin,allergy,30C,synthetic materia medica
+Antimonium Crudum,dull skin; hormonal acne; eczema; pus formation; pigmentation; allergic rash,allergy,6X,synthetic materia medica
+Sulphur,hormonal acne; vesicular eruptions; itching; eczema; burning,hormonal,30C,synthetic materia medica
+Nux Vomica,cracked skin; allergic rash; burning; oily skin; chronic eruptions; acne,general,30C,synthetic materia medica
+Sepia,swelling; pimples; eczema; dry skin,acute inflammation,6X,synthetic materia medica
+Rhus Toxicodendron,hormonal acne; rash; burning; dry skin,skin,30C,synthetic materia medica
+Lycopodium,oily skin; chronic eruptions; dull skin,allergy,30C,synthetic materia medica
+Kali Bromatum,pigmentation; acne; rash; eczema,acute inflammation,200C,synthetic materia medica
+Belladonna,itching; oily skin; cracked skin,general,6X,synthetic materia medica
+Bryonia,dry skin; eczema; rash; redness; swelling,acute inflammation,6X,synthetic materia medica
+Arsenicum Album,swelling; itching; burning,acute inflammation,Q,synthetic materia medica
+Mercurius Solubilis,swelling; dry skin; facial eruptions; cracked skin; dull skin,hormonal,Q,synthetic materia medica
+Thuja Occidentalis,dull skin; pimples; pus formation; vesicular eruptions; chronic eruptions,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,eczema; pigmentation; pus formation; dull skin; vesicular eruptions; allergic rash,acute inflammation,6X,synthetic materia medica
+Apis Mellifica,oily skin; rash; redness,skin,30C,synthetic materia medica
+Kali Bromatum,pimples; sensitive skin; oily skin; chronic eruptions; dull skin; itching,acute inflammation,6X,synthetic materia medica
+Pulsatilla,pus formation; acne; pimples; allergic rash; redness; dull skin,acute inflammation,200C,synthetic materia medica
+Pulsatilla,cracked skin; itching; sensitive skin; pimples; swelling; burning,hormonal,Q,synthetic materia medica
+Thuja Occidentalis,pus formation; redness; dry skin; pigmentation; allergic rash; cracked skin,chronic,6X,synthetic materia medica
+Sulphur,dull skin; acne; redness; sensitive skin,allergy,6X,synthetic materia medica
+Bryonia,allergic rash; redness; burning; sensitive skin,allergy,30C,synthetic materia medica
+Graphites,acne; allergic rash; hormonal acne; pimples; dull skin,allergy,Q,synthetic materia medica
+Hepar Sulph,vesicular eruptions; acne; rash; dry skin; pimples,skin,Q,synthetic materia medica
+Kali Bromatum,hormonal acne; acne; pigmentation; vesicular eruptions,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,rash; cracked skin; redness; oily skin; acne; chronic eruptions,skin,200C,synthetic materia medica
+Apis Mellifica,facial eruptions; oily skin; allergic rash,general,30C,synthetic materia medica
+Antimonium Crudum,oily skin; pimples; sensitive skin; cracked skin; pus formation,acute inflammation,Q,synthetic materia medica
+Apis Mellifica,rash; itching; pimples,hormonal,30C,synthetic materia medica
+Lycopodium,swelling; hormonal acne; burning,chronic,200C,synthetic materia medica
+Antimonium Crudum,hormonal acne; vesicular eruptions; sensitive skin,acute inflammation,200C,synthetic materia medica
+Bryonia,vesicular eruptions; hormonal acne; rash; burning; acne; chronic eruptions,general,30C,synthetic materia medica
+Lycopodium,acne; facial eruptions; hormonal acne; pigmentation,general,6X,synthetic materia medica
+Natrum Muriaticum,dull skin; acne; itching; sensitive skin; pus formation; swelling,chronic,6X,synthetic materia medica
+Apis Mellifica,dull skin; hormonal acne; pigmentation,chronic,30C,synthetic materia medica
+Silicea,dry skin; allergic rash; dull skin,skin,30C,synthetic materia medica
+Mercurius Solubilis,redness; swelling; sensitive skin; dry skin; itching,general,200C,synthetic materia medica
+Nux Vomica,burning; redness; rash; swelling,hormonal,6X,synthetic materia medica
+Rhus Toxicodendron,acne; vesicular eruptions; hormonal acne; rash; pimples; oily skin,skin,200C,synthetic materia medica
+Silicea,redness; itching; eczema; hormonal acne,general,30C,synthetic materia medica
+Antimonium Crudum,sensitive skin; redness; dull skin; dry skin; chronic eruptions,allergy,200C,synthetic materia medica
+Calcarea Sulph,dry skin; cracked skin; chronic eruptions; acne,chronic,Q,synthetic materia medica
+Sulphur,dull skin; eczema; vesicular eruptions; facial eruptions; hormonal acne,general,200C,synthetic materia medica
+Bryonia,oily skin; pigmentation; hormonal acne; pus formation; dry skin; itching,allergy,Q,synthetic materia medica
+Graphites,vesicular eruptions; pus formation; pigmentation,acute inflammation,Q,synthetic materia medica
+Nux Vomica,chronic eruptions; redness; dull skin; pimples; swelling,general,Q,synthetic materia medica
+Pulsatilla,eczema; redness; vesicular eruptions; itching; facial eruptions,hormonal,200C,synthetic materia medica
+Nux Vomica,rash; dry skin; burning; itching; pigmentation,chronic,6X,synthetic materia medica
+Thuja Occidentalis,rash; chronic eruptions; vesicular eruptions; pimples,general,6X,synthetic materia medica
+Belladonna,itching; chronic eruptions; vesicular eruptions; burning; pigmentation; allergic rash,chronic,6X,synthetic materia medica
+Bryonia,redness; facial eruptions; hormonal acne; pus formation,acute inflammation,Q,synthetic materia medica
+Calcarea Sulph,burning; itching; chronic eruptions,allergy,6X,synthetic materia medica
+Graphites,rash; sensitive skin; allergic rash,skin,200C,synthetic materia medica
+Kali Bromatum,redness; dry skin; chronic eruptions,acute inflammation,30C,synthetic materia medica
+Nux Vomica,chronic eruptions; allergic rash; hormonal acne,allergy,6X,synthetic materia medica
+Nux Vomica,dull skin; dry skin; redness,skin,30C,synthetic materia medica
+Rhus Toxicodendron,swelling; chronic eruptions; dry skin; hormonal acne; dull skin,hormonal,6X,synthetic materia medica
+Antimonium Crudum,redness; allergic rash; vesicular eruptions; pus formation; pimples,hormonal,6X,synthetic materia medica
+Apis Mellifica,chronic eruptions; eczema; cracked skin; pimples,general,200C,synthetic materia medica
+Rhus Toxicodendron,redness; sensitive skin; cracked skin; eczema; oily skin,general,30C,synthetic materia medica
+Kali Bromatum,redness; eczema; chronic eruptions,acute inflammation,Q,synthetic materia medica
+Arsenicum Album,allergic rash; rash; sensitive skin; facial eruptions; pigmentation; dull skin,chronic,Q,synthetic materia medica
+Kali Bromatum,itching; swelling; dull skin,allergy,6X,synthetic materia medica
+Pulsatilla,dull skin; hormonal acne; pimples; allergic rash; facial eruptions; itching,skin,30C,synthetic materia medica
+Berberis Aquifolium,rash; allergic rash; itching; sensitive skin; pimples; acne,acute inflammation,Q,synthetic materia medica
+Sulphur,chronic eruptions; pigmentation; pus formation,chronic,6X,synthetic materia medica
+Belladonna,allergic rash; hormonal acne; vesicular eruptions; chronic eruptions,chronic,30C,synthetic materia medica
+Belladonna,pigmentation; pimples; sensitive skin,allergy,6X,synthetic materia medica
+Silicea,itching; cracked skin; sensitive skin; swelling; dull skin; chronic eruptions,general,6X,synthetic materia medica
+Nux Vomica,cracked skin; rash; pus formation; oily skin; facial eruptions,hormonal,200C,synthetic materia medica
+Lycopodium,oily skin; pimples; acne; sensitive skin; hormonal acne,acute inflammation,Q,synthetic materia medica
+Arsenicum Album,swelling; rash; itching; pigmentation; sensitive skin; chronic eruptions,general,Q,synthetic materia medica
+Pulsatilla,pigmentation; pus formation; dry skin; allergic rash,hormonal,200C,synthetic materia medica
+Apis Mellifica,sensitive skin; pimples; redness,allergy,200C,synthetic materia medica
+Pulsatilla,rash; dull skin; pus formation; chronic eruptions; dry skin; allergic rash,allergy,Q,synthetic materia medica
+Kali Bromatum,redness; oily skin; vesicular eruptions,skin,6X,synthetic materia medica
+Bryonia,acne; dry skin; pigmentation; swelling; redness; dull skin,acute inflammation,6X,synthetic materia medica
+Antimonium Crudum,pigmentation; allergic rash; oily skin; chronic eruptions; vesicular eruptions,chronic,6X,synthetic materia medica
+Apis Mellifica,dry skin; hormonal acne; pigmentation; facial eruptions,allergy,6X,synthetic materia medica
+Antimonium Crudum,chronic eruptions; facial eruptions; burning; dull skin; sensitive skin; cracked skin,chronic,30C,synthetic materia medica
+Mercurius Solubilis,oily skin; itching; allergic rash; dull skin,allergy,30C,synthetic materia medica
+Belladonna,swelling; pigmentation; vesicular eruptions; acne; itching; allergic rash,allergy,200C,synthetic materia medica
+Silicea,dull skin; facial eruptions; pus formation; pimples,skin,Q,synthetic materia medica
+Graphites,chronic eruptions; pimples; facial eruptions; acne,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,burning; redness; pimples; facial eruptions; rash; itching,acute inflammation,200C,synthetic materia medica
+Graphites,pimples; pus formation; acne; burning; itching,general,30C,synthetic materia medica
+Berberis Aquifolium,burning; redness; itching,allergy,200C,synthetic materia medica
+Arsenicum Album,allergic rash; oily skin; chronic eruptions; itching; pimples; vesicular eruptions,hormonal,200C,synthetic materia medica
+Calcarea Sulph,dull skin; cracked skin; pigmentation; redness,general,6X,synthetic materia medica
+Natrum Muriaticum,cracked skin; rash; acne,general,200C,synthetic materia medica
+Hepar Sulph,cracked skin; redness; dry skin; dull skin; chronic eruptions,hormonal,30C,synthetic materia medica
+Hepar Sulph,allergic rash; facial eruptions; pimples; dull skin; redness,acute inflammation,30C,synthetic materia medica
+Berberis Aquifolium,pimples; allergic rash; oily skin; itching; redness,allergy,Q,synthetic materia medica
+Berberis Aquifolium,facial eruptions; cracked skin; pigmentation; chronic eruptions,general,Q,synthetic materia medica
+Silicea,pigmentation; swelling; hormonal acne; dull skin; rash; allergic rash,skin,200C,synthetic materia medica
+Nux Vomica,dull skin; facial eruptions; pus formation; redness,skin,200C,synthetic materia medica
+Apis Mellifica,oily skin; sensitive skin; pus formation; pimples; allergic rash,skin,Q,synthetic materia medica
+Mercurius Solubilis,dry skin; sensitive skin; eczema,general,Q,synthetic materia medica
+Mercurius Solubilis,pus formation; dull skin; eczema; acne; hormonal acne; facial eruptions,acute inflammation,Q,synthetic materia medica
+Hepar Sulph,redness; sensitive skin; pigmentation; dry skin; pimples; hormonal acne,chronic,Q,synthetic materia medica
+Belladonna,facial eruptions; cracked skin; burning,allergy,200C,synthetic materia medica
+Apis Mellifica,swelling; acne; dry skin; vesicular eruptions; oily skin,skin,Q,synthetic materia medica
+Hepar Sulph,burning; cracked skin; oily skin; facial eruptions,allergy,30C,synthetic materia medica
+Arsenicum Album,pimples; pus formation; sensitive skin; oily skin; vesicular eruptions; facial eruptions,allergy,6X,synthetic materia medica
+Belladonna,facial eruptions; dull skin; chronic eruptions; redness,allergy,6X,synthetic materia medica
+Apis Mellifica,pimples; allergic rash; rash,allergy,30C,synthetic materia medica
+Antimonium Crudum,facial eruptions; eczema; dry skin; oily skin; rash; vesicular eruptions,hormonal,30C,synthetic materia medica
+Thuja Occidentalis,pus formation; eczema; pimples; dry skin; pigmentation; dull skin,hormonal,6X,synthetic materia medica
+Mercurius Solubilis,allergic rash; sensitive skin; facial eruptions,hormonal,30C,synthetic materia medica
+Belladonna,pimples; facial eruptions; acne; dry skin; eczema,allergy,6X,synthetic materia medica
+Belladonna,vesicular eruptions; chronic eruptions; cracked skin; pus formation; sensitive skin,hormonal,200C,synthetic materia medica
+Pulsatilla,facial eruptions; swelling; eczema; dull skin; burning; sensitive skin,acute inflammation,Q,synthetic materia medica
+Sulphur,sensitive skin; vesicular eruptions; rash,hormonal,6X,synthetic materia medica
+Silicea,cracked skin; burning; redness; sensitive skin; eczema,hormonal,200C,synthetic materia medica
+Silicea,oily skin; pimples; pus formation,skin,30C,synthetic materia medica
+Nux Vomica,redness; sensitive skin; pigmentation; itching; dull skin,allergy,6X,synthetic materia medica
+Apis Mellifica,burning; chronic eruptions; eczema; allergic rash,acute inflammation,Q,synthetic materia medica
+Graphites,rash; chronic eruptions; vesicular eruptions; itching; redness; cracked skin,acute inflammation,200C,synthetic materia medica
+Belladonna,burning; dull skin; acne,hormonal,6X,synthetic materia medica
+Arsenicum Album,dull skin; acne; chronic eruptions,allergy,30C,synthetic materia medica
+Nux Vomica,rash; dry skin; acne; sensitive skin,skin,200C,synthetic materia medica
+Rhus Toxicodendron,pus formation; chronic eruptions; cracked skin; redness,chronic,6X,synthetic materia medica
+Pulsatilla,redness; cracked skin; dull skin,allergy,6X,synthetic materia medica
+Kali Bromatum,vesicular eruptions; hormonal acne; swelling; pus formation; rash,chronic,200C,synthetic materia medica
+Berberis Aquifolium,facial eruptions; dull skin; acne,skin,30C,synthetic materia medica
+Berberis Aquifolium,facial eruptions; rash; cracked skin; hormonal acne; swelling; itching,chronic,30C,synthetic materia medica
+Natrum Muriaticum,redness; vesicular eruptions; sensitive skin; swelling; hormonal acne,hormonal,30C,synthetic materia medica
+Silicea,sensitive skin; hormonal acne; vesicular eruptions,hormonal,Q,synthetic materia medica
+Rhus Toxicodendron,oily skin; sensitive skin; hormonal acne,skin,Q,synthetic materia medica
+Arsenicum Album,itching; pigmentation; vesicular eruptions; cracked skin; rash; sensitive skin,hormonal,200C,synthetic materia medica
+Bryonia,burning; dry skin; vesicular eruptions,allergy,200C,synthetic materia medica
+Rhus Toxicodendron,hormonal acne; facial eruptions; pus formation,allergy,200C,synthetic materia medica
+Rhus Toxicodendron,pigmentation; rash; sensitive skin; hormonal acne; eczema; cracked skin,allergy,30C,synthetic materia medica
+Rhus Toxicodendron,chronic eruptions; redness; oily skin; eczema; sensitive skin,hormonal,200C,synthetic materia medica
+Graphites,rash; eczema; allergic rash,skin,200C,synthetic materia medica
+Graphites,swelling; dull skin; pimples; pus formation; allergic rash,allergy,6X,synthetic materia medica
+Sepia,oily skin; pus formation; redness,general,200C,synthetic materia medica
+Belladonna,dry skin; hormonal acne; allergic rash; burning,general,6X,synthetic materia medica
+Silicea,allergic rash; rash; chronic eruptions,hormonal,30C,synthetic materia medica
+Apis Mellifica,rash; oily skin; hormonal acne; dull skin,allergy,6X,synthetic materia medica
+Arsenicum Album,allergic rash; dry skin; pimples,general,Q,synthetic materia medica
+Berberis Aquifolium,allergic rash; acne; chronic eruptions; redness,skin,6X,synthetic materia medica
+Kali Bromatum,redness; chronic eruptions; cracked skin; sensitive skin; pus formation; rash,chronic,200C,synthetic materia medica
+Rhus Toxicodendron,rash; itching; vesicular eruptions; swelling; pus formation; dull skin,acute inflammation,Q,synthetic materia medica
+Berberis Aquifolium,oily skin; chronic eruptions; sensitive skin; pigmentation; hormonal acne; swelling,hormonal,200C,synthetic materia medica
+Arsenicum Album,acne; itching; facial eruptions; pimples; oily skin; chronic eruptions,general,30C,synthetic materia medica
+Thuja Occidentalis,swelling; eczema; pimples; facial eruptions; burning; acne,skin,200C,synthetic materia medica
+Sepia,swelling; oily skin; dry skin; chronic eruptions; pigmentation,allergy,200C,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; chronic eruptions; pigmentation; facial eruptions; swelling,hormonal,200C,synthetic materia medica
+Rhus Toxicodendron,redness; swelling; burning; cracked skin; vesicular eruptions,acute inflammation,Q,synthetic materia medica
+Sulphur,cracked skin; redness; pigmentation,skin,200C,synthetic materia medica
+Thuja Occidentalis,eczema; acne; swelling,skin,200C,synthetic materia medica
+Natrum Muriaticum,sensitive skin; pus formation; dull skin; acne,acute inflammation,30C,synthetic materia medica
+Antimonium Crudum,cracked skin; eczema; facial eruptions; oily skin,allergy,200C,synthetic materia medica
+Silicea,facial eruptions; oily skin; hormonal acne; pigmentation; vesicular eruptions; redness,acute inflammation,200C,synthetic materia medica
+Arsenicum Album,acne; chronic eruptions; cracked skin; pus formation; oily skin; swelling,acute inflammation,6X,synthetic materia medica
+Antimonium Crudum,swelling; redness; oily skin; sensitive skin; burning; eczema,general,6X,synthetic materia medica
+Thuja Occidentalis,facial eruptions; oily skin; swelling; allergic rash,general,30C,synthetic materia medica
+Mercurius Solubilis,allergic rash; pimples; dry skin; redness; facial eruptions,acute inflammation,6X,synthetic materia medica
+Natrum Muriaticum,itching; oily skin; pus formation,general,200C,synthetic materia medica
+Apis Mellifica,dull skin; hormonal acne; acne,hormonal,30C,synthetic materia medica
+Lycopodium,chronic eruptions; burning; pus formation,allergy,30C,synthetic materia medica
+Mercurius Solubilis,cracked skin; dull skin; burning,chronic,6X,synthetic materia medica
+Sulphur,itching; swelling; pigmentation,hormonal,Q,synthetic materia medica
+Natrum Muriaticum,pimples; pus formation; redness; rash; pigmentation,general,30C,synthetic materia medica
+Natrum Muriaticum,oily skin; swelling; eczema; pimples; dull skin,chronic,200C,synthetic materia medica
+Arsenicum Album,facial eruptions; pus formation; dry skin; chronic eruptions,chronic,6X,synthetic materia medica
+Antimonium Crudum,pus formation; cracked skin; swelling; oily skin; acne; sensitive skin,hormonal,30C,synthetic materia medica
+Graphites,rash; dry skin; pimples; sensitive skin; swelling; eczema,general,200C,synthetic materia medica
+Hepar Sulph,pigmentation; dry skin; sensitive skin; swelling; chronic eruptions; itching,hormonal,200C,synthetic materia medica
+Pulsatilla,eczema; dull skin; oily skin; pigmentation; sensitive skin; chronic eruptions,skin,Q,synthetic materia medica
+Thuja Occidentalis,hormonal acne; facial eruptions; swelling; sensitive skin; chronic eruptions,general,6X,synthetic materia medica
+Silicea,sensitive skin; itching; dull skin,allergy,30C,synthetic materia medica
+Calcarea Sulph,oily skin; vesicular eruptions; dry skin; rash; facial eruptions; redness,general,30C,synthetic materia medica
+Nux Vomica,swelling; facial eruptions; allergic rash; oily skin,general,30C,synthetic materia medica
+Graphites,pimples; eczema; itching; rash,general,6X,synthetic materia medica
+Mercurius Solubilis,acne; facial eruptions; hormonal acne; dry skin; itching; vesicular eruptions,hormonal,200C,synthetic materia medica
+Sepia,pimples; vesicular eruptions; itching; cracked skin; redness,general,6X,synthetic materia medica
+Sepia,itching; pimples; redness; chronic eruptions,allergy,30C,synthetic materia medica
+Sulphur,hormonal acne; swelling; vesicular eruptions; acne; oily skin,hormonal,Q,synthetic materia medica
+Kali Bromatum,sensitive skin; vesicular eruptions; chronic eruptions; facial eruptions; cracked skin; oily skin,allergy,30C,synthetic materia medica
+Nux Vomica,redness; dry skin; hormonal acne; pigmentation; acne; sensitive skin,allergy,30C,synthetic materia medica
+Apis Mellifica,chronic eruptions; burning; itching,acute inflammation,200C,synthetic materia medica
+Sulphur,hormonal acne; itching; chronic eruptions; burning; pimples,general,6X,synthetic materia medica
+Kali Bromatum,pimples; itching; hormonal acne,general,Q,synthetic materia medica
+Hepar Sulph,vesicular eruptions; cracked skin; pigmentation; allergic rash; pus formation; itching,general,200C,synthetic materia medica
+Graphites,chronic eruptions; pigmentation; oily skin; pimples; eczema,skin,6X,synthetic materia medica
+Calcarea Sulph,oily skin; dry skin; acne; facial eruptions; redness,chronic,6X,synthetic materia medica
+Natrum Muriaticum,oily skin; itching; sensitive skin; burning; allergic rash,allergy,200C,synthetic materia medica
+Calcarea Sulph,chronic eruptions; rash; hormonal acne; pus formation,allergy,Q,synthetic materia medica
+Nux Vomica,itching; hormonal acne; pus formation; vesicular eruptions; pigmentation; chronic eruptions,general,200C,synthetic materia medica
+Rhus Toxicodendron,cracked skin; oily skin; vesicular eruptions; facial eruptions,acute inflammation,Q,synthetic materia medica
+Silicea,oily skin; dull skin; eczema; pimples; facial eruptions,chronic,30C,synthetic materia medica
+Rhus Toxicodendron,dull skin; swelling; pus formation; pigmentation; eczema; burning,general,200C,synthetic materia medica
+Rhus Toxicodendron,cracked skin; hormonal acne; oily skin; allergic rash,hormonal,200C,synthetic materia medica
+Sepia,pigmentation; chronic eruptions; sensitive skin; hormonal acne,chronic,Q,synthetic materia medica
+Kali Bromatum,dry skin; sensitive skin; acne; facial eruptions; vesicular eruptions; redness,skin,30C,synthetic materia medica
+Bryonia,pus formation; burning; facial eruptions; eczema,skin,Q,synthetic materia medica
+Sepia,itching; swelling; dry skin; redness; hormonal acne,general,200C,synthetic materia medica
+Berberis Aquifolium,pigmentation; swelling; burning; sensitive skin,acute inflammation,6X,synthetic materia medica
+Rhus Toxicodendron,itching; acne; vesicular eruptions; burning,skin,200C,synthetic materia medica
+Antimonium Crudum,oily skin; swelling; vesicular eruptions; cracked skin; itching,general,200C,synthetic materia medica
+Natrum Muriaticum,burning; hormonal acne; redness; allergic rash; pimples; eczema,hormonal,30C,synthetic materia medica
+Sulphur,rash; oily skin; dull skin,acute inflammation,30C,synthetic materia medica
+Hepar Sulph,vesicular eruptions; hormonal acne; pimples; pigmentation; acne,general,30C,synthetic materia medica
+Rhus Toxicodendron,acne; pus formation; redness,hormonal,6X,synthetic materia medica
+Mercurius Solubilis,sensitive skin; pigmentation; chronic eruptions,chronic,30C,synthetic materia medica
+Kali Bromatum,oily skin; burning; facial eruptions,general,Q,synthetic materia medica
+Lycopodium,dry skin; allergic rash; dull skin; cracked skin; pus formation; oily skin,acute inflammation,Q,synthetic materia medica
+Sepia,itching; pimples; oily skin; pus formation,skin,Q,synthetic materia medica
+Apis Mellifica,acne; pigmentation; facial eruptions; rash,general,Q,synthetic materia medica
+Mercurius Solubilis,chronic eruptions; sensitive skin; pigmentation; dull skin,allergy,6X,synthetic materia medica
+Rhus Toxicodendron,pigmentation; oily skin; redness,hormonal,30C,synthetic materia medica
+Pulsatilla,vesicular eruptions; itching; redness,skin,30C,synthetic materia medica
+Arsenicum Album,hormonal acne; swelling; acne; pimples,chronic,Q,synthetic materia medica
+Nux Vomica,rash; hormonal acne; chronic eruptions; cracked skin; pigmentation,skin,30C,synthetic materia medica
+Lycopodium,itching; cracked skin; dry skin; allergic rash; acne,hormonal,Q,synthetic materia medica
+Natrum Muriaticum,vesicular eruptions; dull skin; chronic eruptions; redness; pigmentation; dry skin,skin,200C,synthetic materia medica
+Lycopodium,oily skin; acne; hormonal acne; dull skin,acute inflammation,Q,synthetic materia medica
+Arsenicum Album,burning; pus formation; pigmentation,skin,Q,synthetic materia medica
+Silicea,acne; sensitive skin; pimples; rash; burning,hormonal,6X,synthetic materia medica
+Mercurius Solubilis,facial eruptions; pimples; sensitive skin; oily skin; vesicular eruptions; rash,allergy,30C,synthetic materia medica
+Natrum Muriaticum,chronic eruptions; itching; pigmentation; vesicular eruptions,allergy,200C,synthetic materia medica
+Hepar Sulph,chronic eruptions; allergic rash; pimples; acne,general,Q,synthetic materia medica
+Arsenicum Album,dry skin; itching; swelling,general,200C,synthetic materia medica
+Hepar Sulph,chronic eruptions; redness; facial eruptions; acne; pus formation; burning,chronic,Q,synthetic materia medica
+Natrum Muriaticum,chronic eruptions; dull skin; allergic rash,hormonal,Q,synthetic materia medica
+Antimonium Crudum,allergic rash; sensitive skin; burning; pigmentation; eczema; oily skin,skin,30C,synthetic materia medica
+Nux Vomica,facial eruptions; dry skin; sensitive skin; vesicular eruptions; allergic rash,acute inflammation,6X,synthetic materia medica
+Lycopodium,vesicular eruptions; itching; hormonal acne; facial eruptions,acute inflammation,6X,synthetic materia medica
+Pulsatilla,swelling; pigmentation; pus formation; oily skin; hormonal acne,hormonal,Q,synthetic materia medica
+Mercurius Solubilis,pus formation; rash; facial eruptions; hormonal acne,acute inflammation,Q,synthetic materia medica
+Calcarea Sulph,acne; dry skin; dull skin,acute inflammation,200C,synthetic materia medica
+Bryonia,acne; eczema; redness; pus formation; vesicular eruptions; facial eruptions,allergy,Q,synthetic materia medica
+Silicea,pigmentation; redness; vesicular eruptions,acute inflammation,30C,synthetic materia medica
+Hepar Sulph,vesicular eruptions; pimples; dull skin; facial eruptions; pigmentation; eczema,hormonal,200C,synthetic materia medica
+Antimonium Crudum,eczema; pus formation; itching; acne,allergy,6X,synthetic materia medica
+Calcarea Sulph,cracked skin; redness; chronic eruptions; dull skin,hormonal,6X,synthetic materia medica
+Rhus Toxicodendron,itching; chronic eruptions; cracked skin; acne; sensitive skin,skin,6X,synthetic materia medica
+Lycopodium,acne; cracked skin; chronic eruptions; sensitive skin; pigmentation; rash,acute inflammation,Q,synthetic materia medica
+Nux Vomica,sensitive skin; dull skin; facial eruptions; chronic eruptions; oily skin,allergy,Q,synthetic materia medica
+Arsenicum Album,facial eruptions; pimples; eczema; oily skin,allergy,30C,synthetic materia medica
+Berberis Aquifolium,pimples; dull skin; dry skin; hormonal acne; burning; oily skin,skin,200C,synthetic materia medica
+Antimonium Crudum,dry skin; rash; allergic rash; vesicular eruptions; swelling; acne,acute inflammation,Q,synthetic materia medica
+Mercurius Solubilis,eczema; allergic rash; acne; pigmentation; oily skin,general,200C,synthetic materia medica
+Bryonia,pus formation; vesicular eruptions; chronic eruptions; facial eruptions; rash,hormonal,Q,synthetic materia medica
+Calcarea Sulph,cracked skin; dry skin; burning; pimples; itching,acute inflammation,6X,synthetic materia medica
+Sulphur,itching; pigmentation; cracked skin; dull skin; oily skin,hormonal,Q,synthetic materia medica
+Apis Mellifica,redness; dull skin; pus formation; acne; facial eruptions,chronic,Q,synthetic materia medica
+Nux Vomica,oily skin; redness; pus formation; hormonal acne,allergy,30C,synthetic materia medica
+Antimonium Crudum,redness; itching; oily skin; eczema; swelling,acute inflammation,Q,synthetic materia medica
+Natrum Muriaticum,rash; dull skin; eczema,chronic,6X,synthetic materia medica
+Silicea,pus formation; rash; sensitive skin; eczema; swelling; dull skin,hormonal,Q,synthetic materia medica
+Thuja Occidentalis,itching; eczema; facial eruptions; oily skin; rash; vesicular eruptions,allergy,Q,synthetic materia medica
+Calcarea Sulph,dry skin; acne; facial eruptions; swelling; hormonal acne; cracked skin,chronic,Q,synthetic materia medica
+Kali Bromatum,pigmentation; dull skin; allergic rash; pimples; hormonal acne,general,6X,synthetic materia medica
+Thuja Occidentalis,swelling; acne; itching,skin,30C,synthetic materia medica
+Arsenicum Album,facial eruptions; itching; swelling; dry skin; acne; redness,chronic,30C,synthetic materia medica
+Lycopodium,chronic eruptions; acne; sensitive skin; hormonal acne; rash,hormonal,Q,synthetic materia medica
+Graphites,dull skin; cracked skin; acne; pus formation,hormonal,30C,synthetic materia medica
+Graphites,hormonal acne; facial eruptions; pus formation; eczema; swelling,allergy,30C,synthetic materia medica
+Nux Vomica,burning; dry skin; pigmentation; dull skin; redness; hormonal acne,skin,200C,synthetic materia medica
+Graphites,hormonal acne; allergic rash; swelling; sensitive skin; dry skin; redness,hormonal,200C,synthetic materia medica
+Arsenicum Album,eczema; chronic eruptions; vesicular eruptions; burning; redness,allergy,6X,synthetic materia medica
+Calcarea Sulph,oily skin; hormonal acne; chronic eruptions; dull skin; dry skin; vesicular eruptions,skin,6X,synthetic materia medica
+Graphites,oily skin; dry skin; cracked skin; pigmentation; chronic eruptions; pus formation,skin,6X,synthetic materia medica
+Apis Mellifica,itching; facial eruptions; hormonal acne; cracked skin; acne,acute inflammation,30C,synthetic materia medica
+Pulsatilla,allergic rash; pigmentation; sensitive skin; dull skin; chronic eruptions; burning,hormonal,30C,synthetic materia medica
+Arsenicum Album,hormonal acne; redness; acne; pus formation; vesicular eruptions,acute inflammation,Q,synthetic materia medica
+Calcarea Sulph,allergic rash; eczema; pus formation; pimples,general,6X,synthetic materia medica
+Lycopodium,pus formation; chronic eruptions; eczema; pimples; burning,acute inflammation,6X,synthetic materia medica
+Arsenicum Album,oily skin; hormonal acne; sensitive skin,hormonal,200C,synthetic materia medica
+Thuja Occidentalis,dull skin; vesicular eruptions; sensitive skin; swelling; pimples; cracked skin,hormonal,6X,synthetic materia medica
+Rhus Toxicodendron,oily skin; redness; rash; vesicular eruptions; allergic rash; cracked skin,acute inflammation,6X,synthetic materia medica
+Pulsatilla,hormonal acne; sensitive skin; dry skin; redness; pus formation,allergy,200C,synthetic materia medica
+Rhus Toxicodendron,pigmentation; cracked skin; redness; pus formation,skin,Q,synthetic materia medica
+Lycopodium,sensitive skin; pimples; cracked skin; burning; swelling,allergy,Q,synthetic materia medica
+Pulsatilla,redness; pus formation; vesicular eruptions; allergic rash; dull skin,skin,200C,synthetic materia medica
+Berberis Aquifolium,allergic rash; rash; oily skin; hormonal acne; pimples; eczema,general,30C,synthetic materia medica
+Natrum Muriaticum,sensitive skin; cracked skin; hormonal acne; burning; eczema,general,6X,synthetic materia medica
+Arsenicum Album,pus formation; allergic rash; swelling,skin,6X,synthetic materia medica
+Mercurius Solubilis,rash; dry skin; chronic eruptions; itching; oily skin; eczema,chronic,Q,synthetic materia medica
+Bryonia,pus formation; burning; oily skin; pimples,general,200C,synthetic materia medica
+Antimonium Crudum,pus formation; allergic rash; pimples; rash; hormonal acne; oily skin,chronic,30C,synthetic materia medica
+Sepia,facial eruptions; dry skin; pigmentation,chronic,30C,synthetic materia medica
+Belladonna,burning; pus formation; pigmentation,acute inflammation,30C,synthetic materia medica
+Lycopodium,swelling; dull skin; dry skin,chronic,30C,synthetic materia medica
+Calcarea Sulph,rash; eczema; hormonal acne; pimples; dull skin,skin,30C,synthetic materia medica
+Berberis Aquifolium,cracked skin; itching; dry skin; redness; vesicular eruptions,skin,6X,synthetic materia medica
+Mercurius Solubilis,facial eruptions; chronic eruptions; cracked skin,hormonal,200C,synthetic materia medica
+Arsenicum Album,vesicular eruptions; burning; rash; pus formation,chronic,30C,synthetic materia medica
+Berberis Aquifolium,vesicular eruptions; oily skin; dry skin; allergic rash; burning; facial eruptions,hormonal,30C,synthetic materia medica
+Kali Bromatum,pigmentation; acne; rash,chronic,6X,synthetic materia medica
+Nux Vomica,burning; pigmentation; facial eruptions; pus formation,skin,Q,synthetic materia medica
+Natrum Muriaticum,cracked skin; dry skin; pus formation; acne,allergy,200C,synthetic materia medica
+Natrum Muriaticum,eczema; rash; itching,acute inflammation,30C,synthetic materia medica
+Berberis Aquifolium,facial eruptions; hormonal acne; oily skin; redness; vesicular eruptions; acne,general,200C,synthetic materia medica
+Nux Vomica,itching; pus formation; facial eruptions; oily skin; pimples; cracked skin,general,30C,synthetic materia medica
+Kali Bromatum,allergic rash; chronic eruptions; cracked skin; itching; sensitive skin,chronic,Q,synthetic materia medica
+Apis Mellifica,hormonal acne; dull skin; pigmentation,hormonal,Q,synthetic materia medica
+Silicea,chronic eruptions; burning; redness; sensitive skin; dry skin; pigmentation,acute inflammation,6X,synthetic materia medica
+Arsenicum Album,facial eruptions; pus formation; redness; dry skin,chronic,30C,synthetic materia medica
+Antimonium Crudum,swelling; burning; sensitive skin; vesicular eruptions,general,200C,synthetic materia medica
+Natrum Muriaticum,dull skin; rash; dry skin; redness,hormonal,6X,synthetic materia medica
+Apis Mellifica,acne; dull skin; sensitive skin; eczema; burning,general,30C,synthetic materia medica
+Thuja Occidentalis,cracked skin; swelling; pigmentation; allergic rash; sensitive skin; chronic eruptions,skin,30C,synthetic materia medica
+Arsenicum Album,vesicular eruptions; pus formation; eczema,acute inflammation,200C,synthetic materia medica
+Hepar Sulph,pus formation; cracked skin; dry skin; facial eruptions,general,200C,synthetic materia medica
+Silicea,pimples; chronic eruptions; oily skin; swelling; dry skin,allergy,6X,synthetic materia medica
+Thuja Occidentalis,pus formation; swelling; cracked skin,acute inflammation,30C,synthetic materia medica
+Belladonna,pimples; dull skin; itching; rash; facial eruptions; pigmentation,acute inflammation,30C,synthetic materia medica
+Arsenicum Album,dull skin; pus formation; redness; sensitive skin; itching; pimples,hormonal,6X,synthetic materia medica
+Graphites,vesicular eruptions; acne; allergic rash; rash; pigmentation,general,Q,synthetic materia medica
+Mercurius Solubilis,pus formation; swelling; cracked skin; redness,acute inflammation,200C,synthetic materia medica
+Silicea,oily skin; vesicular eruptions; dull skin; swelling; itching,general,Q,synthetic materia medica
+Antimonium Crudum,cracked skin; swelling; hormonal acne,acute inflammation,Q,synthetic materia medica
+Natrum Muriaticum,burning; allergic rash; pigmentation,chronic,30C,synthetic materia medica
+Sulphur,burning; pigmentation; swelling; redness; eczema; dull skin,general,Q,synthetic materia medica
+Belladonna,eczema; acne; pimples; pus formation; dull skin,acute inflammation,6X,synthetic materia medica
+Hepar Sulph,cracked skin; acne; eczema; rash; sensitive skin,general,Q,synthetic materia medica
+Antimonium Crudum,facial eruptions; burning; allergic rash; vesicular eruptions; hormonal acne,general,30C,synthetic materia medica
+Bryonia,burning; acne; oily skin,acute inflammation,200C,synthetic materia medica
+Natrum Muriaticum,burning; pimples; cracked skin; eczema; acne,general,Q,synthetic materia medica
+Mercurius Solubilis,hormonal acne; redness; chronic eruptions; allergic rash; pimples,chronic,200C,synthetic materia medica
+Rhus Toxicodendron,pimples; swelling; pus formation; vesicular eruptions,skin,6X,synthetic materia medica
+Mercurius Solubilis,facial eruptions; hormonal acne; sensitive skin,chronic,Q,synthetic materia medica
+Calcarea Sulph,cracked skin; dry skin; redness,hormonal,Q,synthetic materia medica
+Sulphur,redness; cracked skin; pigmentation; swelling; pus formation,allergy,6X,synthetic materia medica
+Kali Bromatum,burning; pigmentation; swelling; pus formation; hormonal acne,chronic,Q,synthetic materia medica
+Thuja Occidentalis,burning; vesicular eruptions; hormonal acne; oily skin; pimples; eczema,allergy,30C,synthetic materia medica
+Pulsatilla,vesicular eruptions; dry skin; cracked skin,acute inflammation,30C,synthetic materia medica
+Kali Bromatum,hormonal acne; facial eruptions; sensitive skin,chronic,30C,synthetic materia medica
+Calcarea Sulph,chronic eruptions; facial eruptions; rash; pus formation; oily skin; pigmentation,hormonal,Q,synthetic materia medica
+Hepar Sulph,hormonal acne; vesicular eruptions; itching,acute inflammation,30C,synthetic materia medica
+Belladonna,chronic eruptions; pigmentation; facial eruptions,chronic,6X,synthetic materia medica
+Arsenicum Album,eczema; itching; hormonal acne; redness; burning; rash,acute inflammation,30C,synthetic materia medica
+Graphites,acne; cracked skin; redness; pigmentation; dull skin; rash,allergy,200C,synthetic materia medica
+Kali Bromatum,allergic rash; rash; pigmentation; facial eruptions,skin,6X,synthetic materia medica
+Sepia,sensitive skin; redness; eczema; allergic rash; hormonal acne; vesicular eruptions,general,30C,synthetic materia medica
+Belladonna,vesicular eruptions; facial eruptions; dry skin; redness; acne,hormonal,200C,synthetic materia medica
+Rhus Toxicodendron,rash; facial eruptions; swelling,chronic,30C,synthetic materia medica
+Lycopodium,cracked skin; itching; acne; rash,hormonal,30C,synthetic materia medica
+Sepia,swelling; redness; acne; burning; dry skin,hormonal,6X,synthetic materia medica
+Calcarea Sulph,facial eruptions; vesicular eruptions; sensitive skin; pus formation; chronic eruptions,general,30C,synthetic materia medica
+Calcarea Sulph,hormonal acne; dry skin; pus formation,hormonal,30C,synthetic materia medica
+Silicea,chronic eruptions; redness; dull skin; cracked skin; rash,general,Q,synthetic materia medica
+Graphites,oily skin; itching; rash,skin,Q,synthetic materia medica
+Sulphur,facial eruptions; pigmentation; rash; allergic rash,general,6X,synthetic materia medica
+Bryonia,dull skin; chronic eruptions; redness; dry skin; sensitive skin,hormonal,200C,synthetic materia medica
+Belladonna,redness; acne; itching; dull skin,allergy,6X,synthetic materia medica
+Bryonia,rash; facial eruptions; pimples; oily skin; hormonal acne,chronic,Q,synthetic materia medica
+Lycopodium,eczema; pimples; oily skin,acute inflammation,200C,synthetic materia medica
+Berberis Aquifolium,hormonal acne; acne; facial eruptions; pimples; rash; eczema,allergy,6X,synthetic materia medica
+Nux Vomica,dry skin; pigmentation; allergic rash; chronic eruptions; oily skin,allergy,6X,synthetic materia medica
+Calcarea Sulph,sensitive skin; dull skin; dry skin; vesicular eruptions; hormonal acne,general,30C,synthetic materia medica
+Natrum Muriaticum,dry skin; hormonal acne; swelling,acute inflammation,Q,synthetic materia medica
+Bryonia,redness; rash; swelling; allergic rash; hormonal acne,hormonal,Q,synthetic materia medica
+Graphites,hormonal acne; pimples; dull skin; facial eruptions,acute inflammation,200C,synthetic materia medica
+Mercurius Solubilis,redness; eczema; pigmentation; rash; dull skin,acute inflammation,Q,synthetic materia medica
+Antimonium Crudum,swelling; vesicular eruptions; redness; sensitive skin; hormonal acne; rash,allergy,200C,synthetic materia medica
+Kali Bromatum,sensitive skin; oily skin; acne; hormonal acne; pus formation; pigmentation,acute inflammation,6X,synthetic materia medica
+Berberis Aquifolium,pimples; dry skin; vesicular eruptions; hormonal acne,skin,30C,synthetic materia medica
+Natrum Muriaticum,dry skin; pimples; pus formation; itching; cracked skin; allergic rash,skin,Q,synthetic materia medica
+Mercurius Solubilis,chronic eruptions; allergic rash; pigmentation; burning; swelling,skin,30C,synthetic materia medica
+Hepar Sulph,sensitive skin; itching; pigmentation; burning; dull skin; pus formation,acute inflammation,6X,synthetic materia medica
+Hepar Sulph,cracked skin; vesicular eruptions; itching; dry skin,hormonal,200C,synthetic materia medica
+Nux Vomica,hormonal acne; swelling; itching; pimples,allergy,30C,synthetic materia medica
+Kali Bromatum,facial eruptions; pimples; pigmentation,general,30C,synthetic materia medica
+Natrum Muriaticum,cracked skin; sensitive skin; eczema; swelling,acute inflammation,30C,synthetic materia medica
+Mercurius Solubilis,oily skin; chronic eruptions; dull skin,allergy,6X,synthetic materia medica
+Nux Vomica,vesicular eruptions; eczema; acne; hormonal acne; chronic eruptions; facial eruptions,hormonal,Q,synthetic materia medica
+Kali Bromatum,dull skin; chronic eruptions; vesicular eruptions; pus formation; acne; cracked skin,chronic,30C,synthetic materia medica
+Calcarea Sulph,cracked skin; eczema; pimples; burning,skin,Q,synthetic materia medica
+Belladonna,pigmentation; redness; oily skin; dry skin; hormonal acne,acute inflammation,200C,synthetic materia medica
+Nux Vomica,pus formation; pigmentation; rash; itching; vesicular eruptions; allergic rash,hormonal,6X,synthetic materia medica
+Berberis Aquifolium,vesicular eruptions; chronic eruptions; cracked skin; eczema; dull skin,general,Q,synthetic materia medica
+Graphites,rash; itching; oily skin; redness,hormonal,30C,synthetic materia medica
+Sepia,acne; chronic eruptions; dry skin,skin,30C,synthetic materia medica
+Bryonia,redness; swelling; facial eruptions,acute inflammation,200C,synthetic materia medica
+Belladonna,cracked skin; allergic rash; pigmentation; chronic eruptions; redness,hormonal,Q,synthetic materia medica
+Sulphur,redness; chronic eruptions; swelling; pus formation,general,200C,synthetic materia medica
+Graphites,cracked skin; swelling; sensitive skin; chronic eruptions; pigmentation,general,30C,synthetic materia medica
+Graphites,redness; vesicular eruptions; rash; burning; pigmentation,chronic,30C,synthetic materia medica
+Bryonia,itching; cracked skin; allergic rash; pimples; vesicular eruptions; burning,allergy,30C,synthetic materia medica
+Sulphur,cracked skin; itching; dry skin; vesicular eruptions; pus formation; pimples,acute inflammation,200C,synthetic materia medica
+Nux Vomica,facial eruptions; allergic rash; dry skin; acne; cracked skin,general,Q,synthetic materia medica
+Hepar Sulph,swelling; facial eruptions; redness; burning; cracked skin,acute inflammation,6X,synthetic materia medica
+Antimonium Crudum,pigmentation; burning; hormonal acne; allergic rash; dry skin; chronic eruptions,acute inflammation,6X,synthetic materia medica
+Thuja Occidentalis,hormonal acne; sensitive skin; chronic eruptions; rash; itching; allergic rash,allergy,Q,synthetic materia medica
+Berberis Aquifolium,dull skin; dry skin; oily skin; facial eruptions; pus formation; chronic eruptions,acute inflammation,200C,synthetic materia medica
+Lycopodium,dull skin; pimples; allergic rash; facial eruptions; hormonal acne; oily skin,acute inflammation,30C,synthetic materia medica
+Kali Bromatum,cracked skin; pus formation; sensitive skin; acne; rash; eczema,hormonal,6X,synthetic materia medica
+Graphites,facial eruptions; vesicular eruptions; swelling; dry skin; allergic rash,hormonal,200C,synthetic materia medica
+Antimonium Crudum,cracked skin; rash; allergic rash; sensitive skin,general,30C,synthetic materia medica
+Arsenicum Album,hormonal acne; vesicular eruptions; chronic eruptions; oily skin; dry skin,allergy,200C,synthetic materia medica
+Silicea,cracked skin; facial eruptions; chronic eruptions,skin,6X,synthetic materia medica
+Belladonna,allergic rash; itching; sensitive skin,allergy,Q,synthetic materia medica
+Arsenicum Album,oily skin; acne; vesicular eruptions; allergic rash,chronic,Q,synthetic materia medica
+Apis Mellifica,pus formation; allergic rash; chronic eruptions,hormonal,30C,synthetic materia medica
+Berberis Aquifolium,acne; pimples; cracked skin; dull skin,allergy,200C,synthetic materia medica
+Lycopodium,pus formation; sensitive skin; dull skin; pigmentation; vesicular eruptions,allergy,200C,synthetic materia medica
+Pulsatilla,pimples; allergic rash; hormonal acne; chronic eruptions; swelling; rash,skin,Q,synthetic materia medica
+Bryonia,burning; pigmentation; oily skin; itching; redness; pus formation,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,facial eruptions; pus formation; dry skin; chronic eruptions; allergic rash,general,6X,synthetic materia medica
+Graphites,swelling; hormonal acne; dry skin; facial eruptions; chronic eruptions,chronic,30C,synthetic materia medica
+Apis Mellifica,oily skin; pimples; dry skin; pigmentation; facial eruptions; eczema,chronic,6X,synthetic materia medica
+Rhus Toxicodendron,chronic eruptions; facial eruptions; swelling; burning,skin,200C,synthetic materia medica
+Belladonna,pigmentation; allergic rash; itching; rash; dry skin,acute inflammation,30C,synthetic materia medica
+Silicea,hormonal acne; burning; dry skin; pus formation,acute inflammation,6X,synthetic materia medica
+Pulsatilla,sensitive skin; dry skin; vesicular eruptions; oily skin,general,200C,synthetic materia medica
+Bryonia,chronic eruptions; burning; rash; dry skin,allergy,30C,synthetic materia medica
+Calcarea Sulph,swelling; dull skin; pimples,allergy,30C,synthetic materia medica
+Apis Mellifica,swelling; chronic eruptions; vesicular eruptions; acne; redness; cracked skin,hormonal,Q,synthetic materia medica
+Hepar Sulph,pigmentation; itching; hormonal acne; vesicular eruptions; burning,skin,6X,synthetic materia medica
+Sepia,pus formation; dry skin; eczema; pigmentation,general,6X,synthetic materia medica
+Graphites,pimples; eczema; pus formation; oily skin; acne; pigmentation,allergy,30C,synthetic materia medica
+Sulphur,redness; vesicular eruptions; sensitive skin; dull skin; cracked skin; itching,general,200C,synthetic materia medica
+Rhus Toxicodendron,facial eruptions; eczema; sensitive skin; cracked skin,allergy,200C,synthetic materia medica
+Sepia,sensitive skin; burning; pimples; redness,hormonal,Q,synthetic materia medica
+Nux Vomica,vesicular eruptions; itching; allergic rash,chronic,30C,synthetic materia medica
+Nux Vomica,vesicular eruptions; dry skin; chronic eruptions; eczema,hormonal,Q,synthetic materia medica
+Berberis Aquifolium,swelling; pus formation; allergic rash,chronic,6X,synthetic materia medica
+Sulphur,pigmentation; facial eruptions; hormonal acne; allergic rash; acne; pimples,general,30C,synthetic materia medica
+Mercurius Solubilis,pus formation; oily skin; itching,chronic,200C,synthetic materia medica
+Graphites,burning; rash; dry skin,skin,Q,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; itching; pus formation; pimples; redness,allergy,Q,synthetic materia medica
+Berberis Aquifolium,pigmentation; hormonal acne; facial eruptions; pimples; cracked skin; sensitive skin,skin,30C,synthetic materia medica
+Antimonium Crudum,allergic rash; pus formation; facial eruptions; sensitive skin,hormonal,30C,synthetic materia medica
+Mercurius Solubilis,pus formation; cracked skin; pimples; dull skin; swelling; pigmentation,allergy,6X,synthetic materia medica
+Bryonia,burning; swelling; redness,hormonal,Q,synthetic materia medica
+Kali Bromatum,vesicular eruptions; pimples; acne; cracked skin; hormonal acne; itching,skin,200C,synthetic materia medica
+Pulsatilla,pimples; rash; pus formation; vesicular eruptions,hormonal,Q,synthetic materia medica
+Belladonna,rash; chronic eruptions; cracked skin,acute inflammation,Q,synthetic materia medica
+Bryonia,rash; swelling; redness; cracked skin; pigmentation; dry skin,skin,200C,synthetic materia medica
+Calcarea Sulph,pigmentation; hormonal acne; pus formation,allergy,Q,synthetic materia medica
+Pulsatilla,hormonal acne; pimples; dull skin; burning; allergic rash; sensitive skin,general,30C,synthetic materia medica
+Belladonna,dry skin; pus formation; pigmentation; pimples; chronic eruptions,general,30C,synthetic materia medica
+Kali Bromatum,allergic rash; facial eruptions; rash; eczema; pigmentation,allergy,200C,synthetic materia medica
+Thuja Occidentalis,oily skin; vesicular eruptions; acne; pus formation; hormonal acne,allergy,6X,synthetic materia medica
+Arsenicum Album,hormonal acne; dry skin; cracked skin; chronic eruptions,chronic,6X,synthetic materia medica
+Arsenicum Album,pigmentation; chronic eruptions; pimples; itching,chronic,6X,synthetic materia medica
+Rhus Toxicodendron,pus formation; redness; hormonal acne; burning,acute inflammation,Q,synthetic materia medica
+Apis Mellifica,dry skin; pimples; sensitive skin; facial eruptions; oily skin,allergy,30C,synthetic materia medica
+Lycopodium,redness; vesicular eruptions; allergic rash,skin,30C,synthetic materia medica
+Calcarea Sulph,acne; pus formation; dry skin; swelling,acute inflammation,Q,synthetic materia medica
+Natrum Muriaticum,vesicular eruptions; redness; chronic eruptions,allergy,200C,synthetic materia medica
+Thuja Occidentalis,pigmentation; rash; chronic eruptions; vesicular eruptions,skin,200C,synthetic materia medica
+Berberis Aquifolium,cracked skin; dull skin; allergic rash; facial eruptions,chronic,6X,synthetic materia medica
+Pulsatilla,swelling; chronic eruptions; rash; pus formation,acute inflammation,6X,synthetic materia medica
+Silicea,itching; hormonal acne; pigmentation; dull skin; burning; allergic rash,skin,6X,synthetic materia medica
+Mercurius Solubilis,cracked skin; pimples; itching,chronic,200C,synthetic materia medica
+Mercurius Solubilis,pigmentation; facial eruptions; dry skin,acute inflammation,6X,synthetic materia medica
+Berberis Aquifolium,pimples; allergic rash; itching; burning; dry skin; swelling,general,Q,synthetic materia medica
+Belladonna,hormonal acne; facial eruptions; eczema; swelling; pus formation,hormonal,6X,synthetic materia medica
+Graphites,pimples; burning; allergic rash; hormonal acne; dull skin,hormonal,200C,synthetic materia medica
+Silicea,dry skin; allergic rash; rash; itching; pus formation,acute inflammation,Q,synthetic materia medica
+Lycopodium,rash; dry skin; acne,acute inflammation,30C,synthetic materia medica
+Apis Mellifica,pus formation; dry skin; swelling; cracked skin; eczema; burning,skin,30C,synthetic materia medica
+Arsenicum Album,acne; burning; redness; oily skin,skin,30C,synthetic materia medica
+Nux Vomica,facial eruptions; dull skin; chronic eruptions,skin,6X,synthetic materia medica
+Antimonium Crudum,dull skin; swelling; pimples; itching,allergy,30C,synthetic materia medica
+Natrum Muriaticum,pigmentation; allergic rash; acne,general,200C,synthetic materia medica
+Kali Bromatum,acne; sensitive skin; oily skin; itching; pimples,general,6X,synthetic materia medica
+Thuja Occidentalis,chronic eruptions; pimples; vesicular eruptions,acute inflammation,6X,synthetic materia medica
+Nux Vomica,facial eruptions; redness; swelling,acute inflammation,Q,synthetic materia medica
+Pulsatilla,itching; vesicular eruptions; acne; dull skin; eczema; facial eruptions,skin,200C,synthetic materia medica
+Antimonium Crudum,pimples; facial eruptions; pigmentation; chronic eruptions; vesicular eruptions,chronic,6X,synthetic materia medica
+Arsenicum Album,hormonal acne; redness; acne; dull skin; itching,acute inflammation,30C,synthetic materia medica
+Natrum Muriaticum,sensitive skin; pigmentation; itching; acne; rash; swelling,general,6X,synthetic materia medica
+Natrum Muriaticum,swelling; pus formation; dull skin; burning; facial eruptions,hormonal,200C,synthetic materia medica
+Hepar Sulph,rash; hormonal acne; vesicular eruptions; sensitive skin; cracked skin,acute inflammation,200C,synthetic materia medica
+Thuja Occidentalis,hormonal acne; rash; itching; cracked skin; swelling; sensitive skin,hormonal,30C,synthetic materia medica
+Calcarea Sulph,pus formation; oily skin; facial eruptions,general,6X,synthetic materia medica
+Sepia,dull skin; sensitive skin; pigmentation; oily skin; redness; cracked skin,general,Q,synthetic materia medica
+Apis Mellifica,eczema; cracked skin; facial eruptions,allergy,30C,synthetic materia medica
+Mercurius Solubilis,itching; allergic rash; redness,chronic,200C,synthetic materia medica
+Rhus Toxicodendron,pimples; redness; chronic eruptions,allergy,6X,synthetic materia medica
+Bryonia,chronic eruptions; pus formation; hormonal acne,acute inflammation,200C,synthetic materia medica
+Belladonna,eczema; rash; hormonal acne; sensitive skin,skin,30C,synthetic materia medica
+Arsenicum Album,pigmentation; burning; eczema; hormonal acne; vesicular eruptions; dry skin,general,Q,synthetic materia medica
+Rhus Toxicodendron,vesicular eruptions; cracked skin; dry skin; burning; eczema; sensitive skin,allergy,30C,synthetic materia medica
+Silicea,dry skin; burning; hormonal acne,general,Q,synthetic materia medica
+Hepar Sulph,swelling; facial eruptions; vesicular eruptions; rash,general,30C,synthetic materia medica
+Bryonia,swelling; burning; rash,chronic,6X,synthetic materia medica
+Nux Vomica,pimples; cracked skin; allergic rash; eczema; oily skin,hormonal,30C,synthetic materia medica
+Nux Vomica,facial eruptions; redness; dull skin,general,200C,synthetic materia medica
+Mercurius Solubilis,eczema; swelling; pus formation,general,6X,synthetic materia medica
+Kali Bromatum,acne; dull skin; burning; allergic rash; redness,allergy,30C,synthetic materia medica
+Bryonia,pus formation; cracked skin; redness; allergic rash,skin,30C,synthetic materia medica
+Lycopodium,chronic eruptions; burning; acne; facial eruptions; vesicular eruptions; swelling,chronic,6X,synthetic materia medica
+Antimonium Crudum,burning; oily skin; pimples; chronic eruptions; swelling,allergy,6X,synthetic materia medica
+Belladonna,acne; rash; pimples; pus formation,hormonal,Q,synthetic materia medica
+Lycopodium,dull skin; acne; chronic eruptions; pigmentation; pimples,hormonal,Q,synthetic materia medica
+Sulphur,pigmentation; burning; facial eruptions; rash; eczema,chronic,Q,synthetic materia medica
+Belladonna,facial eruptions; pimples; rash,allergy,6X,synthetic materia medica
+Thuja Occidentalis,vesicular eruptions; swelling; pus formation; oily skin; dull skin; pimples,hormonal,Q,synthetic materia medica
+Antimonium Crudum,cracked skin; sensitive skin; pimples; acne; dull skin,skin,Q,synthetic materia medica
+Nux Vomica,oily skin; sensitive skin; vesicular eruptions; facial eruptions; chronic eruptions; redness,skin,200C,synthetic materia medica
+Bryonia,pus formation; oily skin; pigmentation; chronic eruptions,allergy,Q,synthetic materia medica
+Hepar Sulph,hormonal acne; eczema; burning; pus formation,chronic,Q,synthetic materia medica
+Antimonium Crudum,redness; cracked skin; allergic rash; hormonal acne,hormonal,6X,synthetic materia medica
+Bryonia,redness; sensitive skin; rash,allergy,200C,synthetic materia medica
+Lycopodium,chronic eruptions; pus formation; redness,hormonal,Q,synthetic materia medica
+Thuja Occidentalis,swelling; rash; burning; pus formation; pigmentation; oily skin,skin,200C,synthetic materia medica
+Rhus Toxicodendron,dull skin; oily skin; acne; swelling; pus formation,general,200C,synthetic materia medica
+Rhus Toxicodendron,pus formation; hormonal acne; facial eruptions; redness; pigmentation; sensitive skin,chronic,200C,synthetic materia medica
+Nux Vomica,vesicular eruptions; pigmentation; cracked skin; oily skin; chronic eruptions; dry skin,skin,6X,synthetic materia medica
+Belladonna,pigmentation; pus formation; oily skin; burning,allergy,30C,synthetic materia medica
+Graphites,redness; sensitive skin; hormonal acne; dull skin,allergy,Q,synthetic materia medica
+Mercurius Solubilis,allergic rash; dry skin; vesicular eruptions; sensitive skin; chronic eruptions; eczema,chronic,30C,synthetic materia medica
+Natrum Muriaticum,sensitive skin; cracked skin; pigmentation,general,30C,synthetic materia medica
+Sepia,facial eruptions; burning; vesicular eruptions; itching; sensitive skin,skin,6X,synthetic materia medica
+Rhus Toxicodendron,pus formation; allergic rash; facial eruptions,allergy,200C,synthetic materia medica
+Lycopodium,pimples; redness; swelling,acute inflammation,6X,synthetic materia medica
+Kali Bromatum,swelling; acne; facial eruptions; dry skin,general,6X,synthetic materia medica
+Hepar Sulph,facial eruptions; eczema; redness; hormonal acne; burning; vesicular eruptions,acute inflammation,Q,synthetic materia medica
+Silicea,dull skin; acne; pimples,skin,6X,synthetic materia medica
+Berberis Aquifolium,burning; itching; rash; sensitive skin; swelling,chronic,200C,synthetic materia medica
+Pulsatilla,allergic rash; facial eruptions; dry skin; eczema; hormonal acne; oily skin,general,6X,synthetic materia medica
+Calcarea Sulph,dull skin; dry skin; pimples; cracked skin,acute inflammation,30C,synthetic materia medica
+Berberis Aquifolium,hormonal acne; chronic eruptions; pus formation; acne; swelling,general,Q,synthetic materia medica
+Graphites,eczema; chronic eruptions; hormonal acne,general,6X,synthetic materia medica
+Silicea,chronic eruptions; dry skin; sensitive skin; itching; acne; eczema,skin,6X,synthetic materia medica
+Belladonna,rash; dry skin; burning,skin,200C,synthetic materia medica
+Antimonium Crudum,redness; burning; pimples; rash,allergy,200C,synthetic materia medica
+Graphites,pus formation; allergic rash; pigmentation; facial eruptions,allergy,Q,synthetic materia medica
+Hepar Sulph,cracked skin; allergic rash; hormonal acne; pimples; itching,hormonal,200C,synthetic materia medica
+Graphites,dry skin; vesicular eruptions; pigmentation; facial eruptions; oily skin; eczema,allergy,Q,synthetic materia medica
+Hepar Sulph,swelling; burning; facial eruptions,chronic,30C,synthetic materia medica
+Mercurius Solubilis,sensitive skin; rash; oily skin; itching,acute inflammation,Q,synthetic materia medica
+Hepar Sulph,sensitive skin; allergic rash; cracked skin; oily skin,skin,30C,synthetic materia medica
+Pulsatilla,pus formation; acne; cracked skin; eczema,general,Q,synthetic materia medica
+Sulphur,itching; hormonal acne; redness; pigmentation,allergy,6X,synthetic materia medica
+Hepar Sulph,allergic rash; dry skin; vesicular eruptions; cracked skin,hormonal,6X,synthetic materia medica
+Belladonna,acne; itching; chronic eruptions; burning; redness,skin,30C,synthetic materia medica
+Lycopodium,pigmentation; pus formation; sensitive skin,acute inflammation,30C,synthetic materia medica
+Lycopodium,chronic eruptions; facial eruptions; allergic rash; cracked skin,hormonal,30C,synthetic materia medica
+Lycopodium,oily skin; swelling; redness; rash,skin,6X,synthetic materia medica
+Mercurius Solubilis,pus formation; chronic eruptions; pigmentation; cracked skin; hormonal acne,general,Q,synthetic materia medica
+Silicea,pus formation; burning; dry skin,skin,Q,synthetic materia medica
+Apis Mellifica,itching; rash; allergic rash; facial eruptions,general,Q,synthetic materia medica
+Arsenicum Album,sensitive skin; burning; vesicular eruptions; rash; dull skin; redness,general,200C,synthetic materia medica
+Bryonia,rash; chronic eruptions; pigmentation,hormonal,200C,synthetic materia medica
+Mercurius Solubilis,dry skin; redness; cracked skin; burning,allergy,6X,synthetic materia medica
+Rhus Toxicodendron,allergic rash; oily skin; cracked skin; dry skin; rash; sensitive skin,allergy,6X,synthetic materia medica
+Thuja Occidentalis,pimples; sensitive skin; cracked skin; chronic eruptions,acute inflammation,200C,synthetic materia medica
+Silicea,eczema; allergic rash; redness; oily skin; rash,allergy,Q,synthetic materia medica
+Kali Bromatum,chronic eruptions; oily skin; burning; facial eruptions; pimples,general,6X,synthetic materia medica
+Apis Mellifica,vesicular eruptions; redness; hormonal acne; sensitive skin; pimples; dry skin,skin,30C,synthetic materia medica
+Belladonna,redness; sensitive skin; cracked skin; oily skin; facial eruptions,acute inflammation,6X,synthetic materia medica
+Arsenicum Album,dull skin; hormonal acne; eczema,chronic,6X,synthetic materia medica
+Silicea,oily skin; pimples; facial eruptions,hormonal,Q,synthetic materia medica
+Kali Bromatum,itching; swelling; hormonal acne; dry skin; facial eruptions,hormonal,200C,synthetic materia medica
+Thuja Occidentalis,facial eruptions; itching; cracked skin; burning; oily skin; eczema,chronic,200C,synthetic materia medica
+Mercurius Solubilis,burning; hormonal acne; chronic eruptions; sensitive skin,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,burning; dull skin; eczema; allergic rash,chronic,30C,synthetic materia medica
+Sepia,chronic eruptions; oily skin; acne,general,200C,synthetic materia medica
+Berberis Aquifolium,rash; swelling; itching,allergy,Q,synthetic materia medica
+Apis Mellifica,eczema; dry skin; burning,skin,30C,synthetic materia medica
+Arsenicum Album,facial eruptions; pus formation; swelling; redness; dull skin,general,200C,synthetic materia medica
+Hepar Sulph,oily skin; vesicular eruptions; swelling; dull skin; dry skin,chronic,30C,synthetic materia medica
+Bryonia,vesicular eruptions; swelling; dry skin,hormonal,200C,synthetic materia medica
+Arsenicum Album,sensitive skin; itching; chronic eruptions; dull skin; rash; cracked skin,allergy,Q,synthetic materia medica
+Natrum Muriaticum,eczema; sensitive skin; redness; pimples; vesicular eruptions,skin,Q,synthetic materia medica
+Kali Bromatum,dry skin; eczema; chronic eruptions; allergic rash,acute inflammation,200C,synthetic materia medica
+Antimonium Crudum,oily skin; rash; itching; dull skin,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,itching; dry skin; vesicular eruptions,chronic,200C,synthetic materia medica
+Hepar Sulph,pigmentation; chronic eruptions; redness; eczema; pimples,acute inflammation,200C,synthetic materia medica
+Graphites,sensitive skin; itching; eczema; allergic rash,general,200C,synthetic materia medica
+Thuja Occidentalis,cracked skin; sensitive skin; redness; dull skin,skin,Q,synthetic materia medica
+Silicea,burning; dull skin; dry skin; hormonal acne,chronic,200C,synthetic materia medica
+Belladonna,vesicular eruptions; redness; hormonal acne,acute inflammation,6X,synthetic materia medica
+Belladonna,allergic rash; itching; vesicular eruptions; oily skin,hormonal,200C,synthetic materia medica
+Nux Vomica,facial eruptions; sensitive skin; vesicular eruptions; cracked skin; rash; eczema,skin,200C,synthetic materia medica
+Belladonna,dull skin; rash; acne; oily skin,allergy,Q,synthetic materia medica
+Belladonna,rash; cracked skin; redness; chronic eruptions,skin,30C,synthetic materia medica
+Apis Mellifica,swelling; acne; pimples; sensitive skin; facial eruptions,hormonal,30C,synthetic materia medica
+Hepar Sulph,dry skin; oily skin; allergic rash; redness; swelling; pigmentation,skin,Q,synthetic materia medica
+Thuja Occidentalis,chronic eruptions; cracked skin; sensitive skin; dry skin; pus formation,chronic,30C,synthetic materia medica
+Thuja Occidentalis,rash; dry skin; itching; acne,hormonal,30C,synthetic materia medica
+Arsenicum Album,hormonal acne; redness; allergic rash; dry skin; eczema; acne,skin,30C,synthetic materia medica
+Berberis Aquifolium,pigmentation; pimples; acne; sensitive skin; rash; chronic eruptions,acute inflammation,200C,synthetic materia medica
+Kali Bromatum,facial eruptions; chronic eruptions; eczema; itching; rash,general,6X,synthetic materia medica
+Silicea,pus formation; cracked skin; pimples; acne; itching,general,6X,synthetic materia medica
+Natrum Muriaticum,sensitive skin; hormonal acne; pigmentation; vesicular eruptions; dry skin,acute inflammation,200C,synthetic materia medica
+Antimonium Crudum,burning; eczema; allergic rash; dry skin; chronic eruptions; swelling,general,200C,synthetic materia medica
+Calcarea Sulph,allergic rash; burning; eczema; facial eruptions,hormonal,Q,synthetic materia medica
+Kali Bromatum,acne; facial eruptions; sensitive skin; pimples; pigmentation,skin,200C,synthetic materia medica
+Bryonia,facial eruptions; dry skin; cracked skin; itching; hormonal acne,allergy,200C,synthetic materia medica
+Antimonium Crudum,sensitive skin; facial eruptions; dull skin; pus formation,chronic,200C,synthetic materia medica
+Natrum Muriaticum,vesicular eruptions; oily skin; pus formation,acute inflammation,200C,synthetic materia medica
+Belladonna,dry skin; allergic rash; vesicular eruptions,hormonal,Q,synthetic materia medica
+Belladonna,cracked skin; eczema; pus formation; sensitive skin; redness; swelling,skin,Q,synthetic materia medica
+Pulsatilla,rash; hormonal acne; chronic eruptions; sensitive skin; swelling,allergy,6X,synthetic materia medica
+Hepar Sulph,eczema; sensitive skin; burning,hormonal,Q,synthetic materia medica
+Natrum Muriaticum,pimples; redness; chronic eruptions,hormonal,200C,synthetic materia medica
+Thuja Occidentalis,dull skin; burning; dry skin,hormonal,6X,synthetic materia medica
+Apis Mellifica,pus formation; cracked skin; allergic rash; hormonal acne; facial eruptions; chronic eruptions,general,6X,synthetic materia medica
+Arsenicum Album,acne; eczema; redness; cracked skin; pimples,allergy,30C,synthetic materia medica
+Berberis Aquifolium,pigmentation; chronic eruptions; burning; cracked skin,general,30C,synthetic materia medica
+Pulsatilla,facial eruptions; chronic eruptions; vesicular eruptions; rash; itching,allergy,Q,synthetic materia medica
+Lycopodium,hormonal acne; oily skin; allergic rash; itching,general,6X,synthetic materia medica
+Nux Vomica,dull skin; swelling; redness,general,30C,synthetic materia medica
+Calcarea Sulph,burning; sensitive skin; cracked skin,acute inflammation,6X,synthetic materia medica
+Belladonna,hormonal acne; itching; redness; oily skin; cracked skin; dry skin,acute inflammation,30C,synthetic materia medica
+Sulphur,allergic rash; rash; chronic eruptions; dull skin; cracked skin; redness,general,30C,synthetic materia medica
+Apis Mellifica,redness; pus formation; pigmentation,acute inflammation,6X,synthetic materia medica
+Graphites,sensitive skin; itching; allergic rash; swelling; dry skin,allergy,200C,synthetic materia medica
+Graphites,pus formation; hormonal acne; eczema,hormonal,6X,synthetic materia medica
+Pulsatilla,rash; pimples; allergic rash; oily skin; acne,skin,200C,synthetic materia medica
+Hepar Sulph,sensitive skin; allergic rash; chronic eruptions; pimples; acne; swelling,allergy,30C,synthetic materia medica
+Arsenicum Album,sensitive skin; pus formation; cracked skin,allergy,6X,synthetic materia medica
+Pulsatilla,facial eruptions; chronic eruptions; sensitive skin; pigmentation; hormonal acne,skin,6X,synthetic materia medica
+Hepar Sulph,sensitive skin; dry skin; eczema,hormonal,200C,synthetic materia medica
+Berberis Aquifolium,dull skin; pigmentation; sensitive skin; vesicular eruptions; cracked skin; itching,skin,Q,synthetic materia medica
+Berberis Aquifolium,eczema; pimples; vesicular eruptions,chronic,6X,synthetic materia medica
+Silicea,burning; hormonal acne; cracked skin; allergic rash; sensitive skin; pigmentation,hormonal,30C,synthetic materia medica
+Sepia,allergic rash; dry skin; pigmentation; burning; pimples,skin,6X,synthetic materia medica
+Sepia,rash; burning; cracked skin,hormonal,Q,synthetic materia medica
+Arsenicum Album,vesicular eruptions; itching; dry skin; allergic rash,hormonal,30C,synthetic materia medica
+Mercurius Solubilis,dry skin; redness; burning,skin,30C,synthetic materia medica
+Kali Bromatum,chronic eruptions; cracked skin; itching; oily skin,chronic,30C,synthetic materia medica
+Berberis Aquifolium,pus formation; swelling; rash; allergic rash; vesicular eruptions,acute inflammation,6X,synthetic materia medica
+Silicea,rash; swelling; burning,allergy,6X,synthetic materia medica
+Silicea,burning; hormonal acne; allergic rash; sensitive skin; eczema,acute inflammation,Q,synthetic materia medica
+Belladonna,cracked skin; facial eruptions; eczema; allergic rash; sensitive skin; acne,general,30C,synthetic materia medica
+Silicea,redness; allergic rash; pus formation,acute inflammation,Q,synthetic materia medica
+Hepar Sulph,vesicular eruptions; eczema; chronic eruptions; dry skin; cracked skin; redness,allergy,200C,synthetic materia medica
+Belladonna,sensitive skin; acne; chronic eruptions; pus formation; facial eruptions,hormonal,30C,synthetic materia medica
+Bryonia,cracked skin; pus formation; dull skin; chronic eruptions; facial eruptions,acute inflammation,200C,synthetic materia medica
+Sulphur,itching; oily skin; burning,hormonal,200C,synthetic materia medica
+Antimonium Crudum,oily skin; burning; eczema,hormonal,200C,synthetic materia medica
+Calcarea Sulph,eczema; itching; oily skin; pus formation; rash,skin,200C,synthetic materia medica
+Silicea,pimples; eczema; redness; pigmentation,chronic,30C,synthetic materia medica
+Silicea,cracked skin; oily skin; redness,chronic,Q,synthetic materia medica
+Pulsatilla,chronic eruptions; eczema; dull skin; pus formation; swelling; sensitive skin,allergy,6X,synthetic materia medica
+Belladonna,dull skin; pus formation; acne; itching; sensitive skin; burning,chronic,200C,synthetic materia medica
+Calcarea Sulph,swelling; itching; oily skin; pimples; burning,allergy,30C,synthetic materia medica
+Pulsatilla,burning; itching; hormonal acne; cracked skin; allergic rash; dull skin,allergy,200C,synthetic materia medica
+Kali Bromatum,pigmentation; hormonal acne; vesicular eruptions; dull skin; itching; eczema,general,30C,synthetic materia medica
+Graphites,sensitive skin; swelling; burning; chronic eruptions; rash,skin,6X,synthetic materia medica
+Sepia,eczema; pus formation; vesicular eruptions,hormonal,30C,synthetic materia medica
+Apis Mellifica,facial eruptions; rash; eczema; cracked skin,skin,200C,synthetic materia medica
+Nux Vomica,hormonal acne; facial eruptions; dull skin,skin,30C,synthetic materia medica
+Thuja Occidentalis,vesicular eruptions; eczema; burning,acute inflammation,6X,synthetic materia medica
+Rhus Toxicodendron,pus formation; vesicular eruptions; itching; pimples; allergic rash,chronic,30C,synthetic materia medica
+Hepar Sulph,pimples; allergic rash; rash; vesicular eruptions; dull skin; dry skin,hormonal,Q,synthetic materia medica
+Pulsatilla,dry skin; cracked skin; itching; oily skin; eczema; rash,hormonal,Q,synthetic materia medica
+Lycopodium,itching; acne; swelling; redness; cracked skin; sensitive skin,allergy,6X,synthetic materia medica
+Silicea,sensitive skin; acne; pigmentation; hormonal acne,acute inflammation,Q,synthetic materia medica
+Belladonna,acne; pus formation; oily skin; dull skin; burning,chronic,200C,synthetic materia medica
+Rhus Toxicodendron,sensitive skin; redness; chronic eruptions; vesicular eruptions; pigmentation; pimples,chronic,Q,synthetic materia medica
+Antimonium Crudum,itching; chronic eruptions; redness; facial eruptions,acute inflammation,6X,synthetic materia medica
+Berberis Aquifolium,vesicular eruptions; redness; chronic eruptions,acute inflammation,30C,synthetic materia medica
+Lycopodium,swelling; hormonal acne; eczema,chronic,200C,synthetic materia medica
+Sepia,hormonal acne; cracked skin; sensitive skin; pimples; rash,allergy,6X,synthetic materia medica
+Bryonia,eczema; pus formation; sensitive skin; dry skin; allergic rash; redness,general,30C,synthetic materia medica
+Sulphur,redness; oily skin; vesicular eruptions; swelling; burning,general,Q,synthetic materia medica
+Sulphur,pus formation; swelling; dry skin,hormonal,30C,synthetic materia medica
+Apis Mellifica,pimples; dull skin; facial eruptions; allergic rash; rash; cracked skin,acute inflammation,Q,synthetic materia medica
+Belladonna,dull skin; pimples; cracked skin; chronic eruptions,hormonal,6X,synthetic materia medica
+Thuja Occidentalis,chronic eruptions; itching; facial eruptions,acute inflammation,200C,synthetic materia medica
+Kali Bromatum,eczema; oily skin; acne; dry skin; cracked skin; hormonal acne,hormonal,6X,synthetic materia medica
+Mercurius Solubilis,burning; facial eruptions; cracked skin; eczema; pigmentation,acute inflammation,Q,synthetic materia medica
+Sulphur,pigmentation; burning; sensitive skin,allergy,Q,synthetic materia medica
+Belladonna,acne; eczema; rash; burning; itching; pimples,skin,30C,synthetic materia medica
+Mercurius Solubilis,vesicular eruptions; dry skin; oily skin,skin,200C,synthetic materia medica
+Berberis Aquifolium,cracked skin; pimples; sensitive skin,skin,30C,synthetic materia medica
+Mercurius Solubilis,acne; facial eruptions; pimples; pus formation; sensitive skin; hormonal acne,chronic,30C,synthetic materia medica
+Belladonna,rash; dry skin; acne; eczema; itching,allergy,6X,synthetic materia medica
+Arsenicum Album,dry skin; redness; chronic eruptions; acne,general,200C,synthetic materia medica
+Mercurius Solubilis,allergic rash; eczema; cracked skin; redness; dull skin,general,200C,synthetic materia medica
+Graphites,itching; hormonal acne; pimples,acute inflammation,30C,synthetic materia medica
+Graphites,pigmentation; redness; swelling,allergy,6X,synthetic materia medica
+Calcarea Sulph,oily skin; acne; sensitive skin; chronic eruptions; eczema; dry skin,skin,6X,synthetic materia medica
+Sulphur,facial eruptions; pus formation; dry skin,chronic,6X,synthetic materia medica
+Graphites,dry skin; pigmentation; chronic eruptions,chronic,Q,synthetic materia medica
+Bryonia,acne; swelling; chronic eruptions; sensitive skin; dry skin; cracked skin,chronic,6X,synthetic materia medica
+Apis Mellifica,swelling; oily skin; hormonal acne; facial eruptions; eczema,chronic,6X,synthetic materia medica
+Thuja Occidentalis,acne; facial eruptions; pigmentation; rash; redness,general,30C,synthetic materia medica
+Apis Mellifica,rash; pus formation; pimples,skin,30C,synthetic materia medica
+Bryonia,burning; sensitive skin; dry skin; allergic rash; vesicular eruptions,skin,30C,synthetic materia medica
+Kali Bromatum,chronic eruptions; dull skin; pus formation,hormonal,6X,synthetic materia medica
+Natrum Muriaticum,dull skin; redness; facial eruptions,acute inflammation,30C,synthetic materia medica
+Bryonia,hormonal acne; oily skin; acne,chronic,200C,synthetic materia medica
+Natrum Muriaticum,swelling; acne; chronic eruptions; pimples,hormonal,200C,synthetic materia medica
+Kali Bromatum,pimples; eczema; oily skin; pus formation; dry skin; hormonal acne,chronic,30C,synthetic materia medica
+Pulsatilla,pigmentation; swelling; vesicular eruptions; allergic rash; dry skin,general,200C,synthetic materia medica
+Sulphur,vesicular eruptions; acne; oily skin; dry skin; swelling,allergy,200C,synthetic materia medica
+Bryonia,itching; hormonal acne; pus formation; pimples; acne,chronic,6X,synthetic materia medica
+Apis Mellifica,facial eruptions; itching; acne; pimples; chronic eruptions,chronic,Q,synthetic materia medica
+Apis Mellifica,oily skin; itching; facial eruptions; rash,chronic,200C,synthetic materia medica
+Apis Mellifica,allergic rash; rash; acne,acute inflammation,200C,synthetic materia medica
+Rhus Toxicodendron,pus formation; rash; eczema; sensitive skin; dry skin; cracked skin,general,200C,synthetic materia medica
+Kali Bromatum,itching; pimples; hormonal acne; eczema; pigmentation; swelling,general,6X,synthetic materia medica
+Silicea,dry skin; eczema; chronic eruptions; vesicular eruptions; oily skin,acute inflammation,Q,synthetic materia medica
+Kali Bromatum,cracked skin; rash; sensitive skin; swelling; hormonal acne; eczema,acute inflammation,200C,synthetic materia medica
+Belladonna,hormonal acne; dull skin; eczema; cracked skin; dry skin; oily skin,hormonal,200C,synthetic materia medica
+Lycopodium,allergic rash; facial eruptions; hormonal acne; rash; dull skin; vesicular eruptions,chronic,Q,synthetic materia medica

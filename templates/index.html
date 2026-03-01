@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Homeopathy AI</title>
+</head>
+<body>
+    <h1>Disease Predictor</h1>
+
+    <input id="symptoms" placeholder="Enter symptoms comma separated">
+    <button onclick="predict()">Predict</button>
+
+    <pre id="result"></pre>
+
+    <script>
+        async function predict() {
+            let symptoms = document
+                .getElementById("symptoms")
+                .value
+                .split(",");
+
+            let res = await fetch("/predict", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({symptoms})
+            });
+
+            let data = await res.json();
+            document.getElementById("result").innerText =
+                JSON.stringify(data, null, 2);
+        }
+    </script>
+</body>
+</html>
