@@ -1,33 +1,262 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 <head>
-    <title>Homeopathy AI</title>
+    <meta charset="UTF-8">
+    <title>Dr S N Verma AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+```
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+        min-height: 100vh;
+        background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        padding: 20px;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 900px;
+        background: rgba(255, 255, 255, 0.08);
+        backdrop-filter: blur(20px);
+        border-radius: 24px;
+        padding: 40px;
+        box-shadow: 0 25px 60px rgba(0,0,0,0.45);
+        text-align: center;
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 34px;
+        margin-bottom: 6px;
+    }
+
+    .subtitle {
+        color: #cfd8dc;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+
+    .input-group {
+        display: flex;
+        gap: 12px;
+        margin-bottom: 20px;
+    }
+
+    input {
+        flex: 1;
+        padding: 15px 16px;
+        border-radius: 14px;
+        border: none;
+        outline: none;
+        font-size: 15px;
+    }
+
+    button {
+        padding: 15px 24px;
+        border: none;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #00c6ff, #0072ff);
+        color: white;
+        font-weight: 600;
+        cursor: pointer;
+        transition: 0.25s ease;
+    }
+
+    button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 28px rgba(0,0,0,0.35);
+    }
+
+    .loading {
+        display: none;
+        margin: 25px 0;
+    }
+
+    .spinner {
+        width: 42px;
+        height: 42px;
+        border: 4px solid rgba(255,255,255,0.25);
+        border-top: 4px solid #00c6ff;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin: auto;
+    }
+
+    @keyframes spin {
+        to { transform: rotate(360deg); }
+    }
+
+    .cards {
+        margin-top: 25px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 16px;
+    }
+
+    .card {
+        background: rgba(255,255,255,0.12);
+        border-radius: 18px;
+        padding: 20px;
+        text-align: left;
+        border: 1px solid rgba(255,255,255,0.15);
+        transition: 0.25s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .card::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(120deg, transparent, rgba(255,255,255,0.08), transparent);
+        opacity: 0;
+        transition: 0.3s;
+    }
+
+    .card:hover::before {
+        opacity: 1;
+    }
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 18px 40px rgba(0,0,0,0.4);
+    }
+
+    .rank {
+        font-size: 12px;
+        color: #80deea;
+        margin-bottom: 6px;
+    }
+
+    .card-title {
+        font-weight: 600;
+        font-size: 17px;
+        margin-bottom: 6px;
+    }
+
+    .confidence {
+        font-size: 13px;
+        color: #b2dfdb;
+    }
+
+    #result {
+        margin-top: 20px;
+        white-space: pre-wrap;
+        font-size: 13px;
+        color: #90a4ae;
+    }
+
+    .footer {
+        margin-top: 30px;
+        font-size: 12px;
+        color: #b0bec5;
+    }
+
+    @media (max-width: 600px) {
+        .input-group {
+            flex-direction: column;
+        }
+
+        button {
+            width: 100%;
+        }
+
+        h1 {
+            font-size: 26px;
+        }
+    }
+</style>
+```
+
 </head>
 <body>
-    <h1>Disease Predictor</h1>
 
-    <input id="symptoms" placeholder="Enter symptoms comma separated">
+<div class="container">
+    <h1>🧠 Dr S N Verma AI</h1>
+    <div class="subtitle">
+        Enter symptoms separated by commas to get probable diseases
+    </div>
+
+```
+<div class="input-group">
+    <input id="symptoms" placeholder="e.g. fever, headache, cough">
     <button onclick="predict()">Predict</button>
+</div>
 
-    <pre id="result"></pre>
+<div class="loading" id="loading">
+    <div class="spinner"></div>
+</div>
 
-    <script>
-        async function predict() {
-            let symptoms = document
-                .getElementById("symptoms")
-                .value
-                .split(",");
+<div class="cards" id="cards"></div>
 
-            let res = await fetch("/predict", {
-                method: "POST",
-                headers: {"Content-Type": "application/json"},
-                body: JSON.stringify({symptoms})
-            });
+<pre id="result"></pre>
 
-            let data = await res.json();
-            document.getElementById("result").innerText =
-                JSON.stringify(data, null, 2);
-        }
-    </script>
+<div class="footer">
+    ⚠️ Educational purpose only — consult a qualified doctor
+</div>
+```
+
+</div>
+
+<script>
+async function predict() {
+    const loading = document.getElementById("loading");
+    const cardsDiv = document.getElementById("cards");
+    const resultDiv = document.getElementById("result");
+
+    cardsDiv.innerHTML = "";
+    resultDiv.innerText = "";
+    loading.style.display = "block";
+
+    let symptoms = document
+        .getElementById("symptoms")
+        .value
+        .split(",");
+
+    let res = await fetch("/predict", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({symptoms})
+    });
+
+    let data = await res.json();
+    loading.style.display = "none";
+
+    // If top diseases available
+    if (data.top_diseases) {
+        data.top_diseases.forEach((d, index) => {
+            const card = document.createElement("div");
+            card.className = "card";
+            card.innerHTML = `
+                <div class="rank">Prediction #${index + 1}</div>
+                <div class="card-title">🦠 ${d.disease}</div>
+                <div class="confidence">
+                    Confidence: ${(d.confidence * 100).toFixed(1)}%
+                </div>
+            `;
+            cardsDiv.appendChild(card);
+        });
+    }
+
+    // fallback raw JSON
+    resultDiv.innerText = JSON.stringify(data, null, 2);
+}
+</script>
+
 </body>
 </html>
